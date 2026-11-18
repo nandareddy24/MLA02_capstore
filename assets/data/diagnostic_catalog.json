@@ -1,0 +1,280 @@
+{
+  "catalog_version": "1.0.0",
+  "categories": [
+    {
+      "id": "smartphone",
+      "name": "Smartphone",
+      "icon_key": "smartphone",
+      "is_supported": true,
+      "common_manufacturers": ["Samsung", "Apple", "Google", "OnePlus", "Xiaomi", "Motorola"],
+      "symptom_groups": [
+        {
+          "id": "power_battery",
+          "name": "Power & Battery",
+          "symptoms": [
+            { "id": "sp_rapid_drain", "label": "Rapid battery drain" },
+            { "id": "sp_no_charge", "label": "Not charging or slow charging" },
+            { "id": "sp_random_shutdown", "label": "Unexpected shutdowns" },
+            { "id": "sp_no_power", "label": "Device does not power on" },
+            { "id": "sp_swollen_battery", "label": "Battery swelling or back cover lift" }
+          ]
+        },
+        {
+          "id": "display_touch",
+          "name": "Display & Touch",
+          "symptoms": [
+            { "id": "sp_touch_unresponsive", "label": "Unresponsive or ghost touch" },
+            { "id": "sp_flicker", "label": "Screen flickering or lines" },
+            { "id": "sp_black_screen", "label": "Blank screen while powered on" },
+            { "id": "sp_dim_display", "label": "Abnormal brightness or discoloration" }
+          ]
+        },
+        {
+          "id": "thermal_performance",
+          "name": "Thermal & Performance",
+          "symptoms": [
+            { "id": "sp_overheating", "label": "Overheating during normal use" },
+            { "id": "sp_boot_loop", "label": "Stuck in boot loop" },
+            { "id": "sp_app_freeze", "label": "Frequent freezing or lag" }
+          ]
+        },
+        {
+          "id": "connectivity_audio",
+          "name": "Connectivity & Audio",
+          "symptoms": [
+            { "id": "sp_no_signal", "label": "No cellular or Wi-Fi signal" },
+            { "id": "sp_mic_speaker", "label": "No audio or distorted microphone" },
+            { "id": "sp_camera_fail", "label": "Camera fails to focus or open" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "laptop",
+      "name": "Laptop",
+      "icon_key": "laptop",
+      "is_supported": true,
+      "common_manufacturers": ["Dell", "HP", "Lenovo", "Apple", "ASUS", "Acer"],
+      "symptom_groups": [
+        {
+          "id": "power_charging",
+          "name": "Power & Charging",
+          "symptoms": [
+            { "id": "lp_no_power", "label": "Will not power on" },
+            { "id": "lp_battery_not_charging", "label": "Plugged in, not charging" },
+            { "id": "lp_sudden_power_off", "label": "Shuts down abruptly under load" }
+          ]
+        },
+        {
+          "id": "thermal_fan",
+          "name": "Cooling & Acoustics",
+          "symptoms": [
+            { "id": "lp_overheating", "label": "Excessive chassis heat" },
+            { "id": "lp_loud_fan", "label": "Constant loud or grinding fan noise" },
+            { "id": "lp_thermal_throttle", "label": "Severe slowdown when warm" }
+          ]
+        },
+        {
+          "id": "display_input",
+          "name": "Display & Input",
+          "symptoms": [
+            { "id": "lp_no_display", "label": "Power LED on with blank display" },
+            { "id": "lp_screen_artifacts", "label": "Flickering, lines, or visual artifacts" },
+            { "id": "lp_keyboard_trackpad", "label": "Unresponsive keyboard or trackpad" }
+          ]
+        },
+        {
+          "id": "system_storage",
+          "name": "System & Storage",
+          "symptoms": [
+            { "id": "lp_bsod_crash", "label": "Frequent OS crashes or blue screen" },
+            { "id": "lp_boot_device_missing", "label": "Boot device not found" },
+            { "id": "lp_wifi_drop", "label": "Intermittent Wi-Fi or Bluetooth drops" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "desktop",
+      "name": "Desktop",
+      "icon_key": "desktop",
+      "is_supported": true,
+      "common_manufacturers": ["Dell", "HP", "Lenovo", "ASUS", "Custom Build"],
+      "symptom_groups": [
+        {
+          "id": "power_post",
+          "name": "Power & Startup (POST)",
+          "symptoms": [
+            { "id": "dt_no_power", "label": "No power response when pressing button" },
+            { "id": "dt_fans_no_post", "label": "Fans spin but no display / POST" },
+            { "id": "dt_beep_codes", "label": "Motherboard beep or LED fault codes" },
+            { "id": "dt_random_reboot", "label": "Random restarts during operation" }
+          ]
+        },
+        {
+          "id": "thermal_graphics",
+          "name": "Thermal & Graphics",
+          "symptoms": [
+            { "id": "dt_cpu_gpu_overheat", "label": "CPU or GPU overheating" },
+            { "id": "dt_gpu_artifacts", "label": "Display artifacts or driver crashes" },
+            { "id": "dt_no_hdmi_signal", "label": "Monitor reports no video signal" }
+          ]
+        },
+        {
+          "id": "storage_peripherals",
+          "name": "Storage & Peripherals",
+          "symptoms": [
+            { "id": "dt_drive_click", "label": "Clicking noise or slow disk access" },
+            { "id": "dt_usb_fail", "label": "USB ports disconnecting or dead" },
+            { "id": "dt_network_down", "label": "Ethernet or Wi-Fi adapter failure" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "television",
+      "name": "Television",
+      "icon_key": "television",
+      "is_supported": true,
+      "common_manufacturers": ["Samsung", "LG", "Sony", "TCL", "Hisense"],
+      "symptom_groups": [
+        {
+          "id": "power_standby",
+          "name": "Power & Standby",
+          "symptoms": [
+            { "id": "tv_no_power", "label": "No power or dead standby LED" },
+            { "id": "tv_blinking_led", "label": "Standby LED blinking error pattern" },
+            { "id": "tv_auto_power_cycle", "label": "Turns off and restarts repeatedly" }
+          ]
+        },
+        {
+          "id": "picture_panel",
+          "name": "Picture & Backlight",
+          "symptoms": [
+            { "id": "tv_sound_no_picture", "label": "Sound present but dark/blank screen" },
+            { "id": "tv_vertical_lines", "label": "Vertical or horizontal screen lines" },
+            { "id": "tv_dim_patches", "label": "Dim zones or uneven backlight" }
+          ]
+        },
+        {
+          "id": "audio_inputs",
+          "name": "Audio & Inputs",
+          "symptoms": [
+            { "id": "tv_no_sound", "label": "Picture normal but no audio" },
+            { "id": "tv_hdmi_no_signal", "label": "HDMI ports not detecting devices" },
+            { "id": "tv_smart_os_freeze", "label": "Smart TV apps freezing or crashing" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "name": "Refrigerator",
+      "icon_key": "refrigerator",
+      "is_supported": true,
+      "common_manufacturers": ["LG", "Samsung", "Whirlpool", "Bosch", "Haier", "GE"],
+      "symptom_groups": [
+        {
+          "id": "cooling_temp",
+          "name": "Cooling & Temperature",
+          "symptoms": [
+            { "id": "rf_not_cooling", "label": "Fresh food compartment not cooling" },
+            { "id": "rf_freezer_warm", "label": "Freezer failing to stay frozen" },
+            { "id": "rf_frost_buildup", "label": "Excessive frost or ice buildup" },
+            { "id": "rf_over_freezing", "label": "Food freezing in fridge compartment" }
+          ]
+        },
+        {
+          "id": "compressor_noise",
+          "name": "Compressor & Noise",
+          "symptoms": [
+            { "id": "rf_compressor_constant", "label": "Compressor runs continuously" },
+            { "id": "rf_clicking_relay", "label": "Repeated clicking sound from rear" },
+            { "id": "rf_loud_vibration", "label": "Loud humming or rattling noise" }
+          ]
+        },
+        {
+          "id": "water_seal",
+          "name": "Water, Drainage & Seals",
+          "symptoms": [
+            { "id": "rf_water_leak", "label": "Water leaking inside or underneath" },
+            { "id": "rf_door_seal", "label": "Door gasket not sealing properly" },
+            { "id": "rf_control_panel_err", "label": "Control panel unresponsive or flashing" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "washing_machine",
+      "name": "Washing Machine",
+      "icon_key": "washing_machine",
+      "is_supported": true,
+      "common_manufacturers": ["LG", "Samsung", "Bosch", "Whirlpool", "IFB"],
+      "symptom_groups": [
+        {
+          "id": "water_drainage",
+          "name": "Water Fill & Drainage",
+          "symptoms": [
+            { "id": "wm_not_draining", "label": "Water remains in drum (not draining)" },
+            { "id": "wm_not_filling", "label": "Does not fill with water" },
+            { "id": "wm_water_leak", "label": "Water leaking from door or base" }
+          ]
+        },
+        {
+          "id": "drum_spin",
+          "name": "Drum & Spin Cycle",
+          "symptoms": [
+            { "id": "wm_no_spin", "label": "Drum does not spin or agitate" },
+            { "id": "wm_excessive_vibration", "label": "Violent shaking or banging during spin" },
+            { "id": "wm_grinding_noise", "label": "Loud grinding or squealing bearing noise" }
+          ]
+        },
+        {
+          "id": "power_door",
+          "name": "Power, Door & Controls",
+          "symptoms": [
+            { "id": "wm_door_locked", "label": "Door will not latch or unlock" },
+            { "id": "wm_mid_cycle_stop", "label": "Stops mid-cycle with fault code" },
+            { "id": "wm_no_power", "label": "Control panel dead / no power" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air_conditioner",
+      "name": "Air Conditioner",
+      "icon_key": "air_conditioner",
+      "is_supported": true,
+      "common_manufacturers": ["Daikin", "LG", "Voltas", "Carrier", "Mitsubishi", "Samsung"],
+      "symptom_groups": [
+        {
+          "id": "cooling_airflow",
+          "name": "Cooling & Airflow",
+          "symptoms": [
+            { "id": "ac_warm_air", "label": "Blowing warm or room-temperature air" },
+            { "id": "ac_weak_airflow", "label": "Weak airflow from indoor vents" },
+            { "id": "ac_coil_freezing", "label": "Ice forming on coils or refrigerant lines" }
+          ]
+        },
+        {
+          "id": "electrical_cycling",
+          "name": "Electrical & Cycling",
+          "symptoms": [
+            { "id": "ac_no_start", "label": "Unit does not turn on" },
+            { "id": "ac_short_cycling", "label": "Compressor turns on and off rapidly" },
+            { "id": "ac_breaker_trip", "label": "Trips circuit breaker when starting" }
+          ]
+        },
+        {
+          "id": "drainage_odor",
+          "name": "Drainage, Noise & Odor",
+          "symptoms": [
+            { "id": "ac_indoor_leak", "label": "Water dripping from indoor unit" },
+            { "id": "ac_unusual_noise", "label": "Rattling, screeching, or buzzing noise" },
+            { "id": "ac_burning_odor", "label": "Burning or chemical odor from vents" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Copy this file to android/key.properties (gitignored) before building a release APK.
+# Generate a release keystore using:
+# keytool -genkey -v -keystore android/app/fixwise-release.jks -keyalg RSA -keysize 2048 -validity 10000 -alias fixwise
+storePassword=REPLACE_WITH_KEYSTORE_PASSWORD
+keyPassword=REPLACE_WITH_KEY_PASSWORD
+keyAlias=fixwise
+storeFile=fixwise-release.jks

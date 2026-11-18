@@ -1,0 +1,62 @@
+{
+  "rules_version": "1.0.0",
+  "review_status": "reviewed",
+  "severity_levels": {
+    "safe": {
+      "label": "Safe",
+      "description": "Low-risk informational checks that users can reasonably perform without opening equipment."
+    },
+    "medium": {
+      "label": "Medium",
+      "description": "Troubleshooting that requires caution and may require qualified professional assistance."
+    },
+    "high": {
+      "label": "High",
+      "description": "Potentially hazardous condition requiring users to stop using the device immediately and seek qualified assistance."
+    }
+  },
+  "high_risk_keywords": [
+    "swollen",
+    "swelling",
+    "battery swelling",
+    "burning",
+    "smoke",
+    "spark",
+    "trips circuit breaker",
+    "breaker trip",
+    "chemical odor",
+    "electric shock",
+    "short circuit",
+    "water leaking from",
+    "water dripping"
+  ],
+  "medium_risk_keywords": [
+    "overheating",
+    "excessive chassis heat",
+    "unexpected shutdown",
+    "shuts down abruptly",
+    "does not power on",
+    "no power",
+    "violent shaking",
+    "grinding",
+    "clicking sound",
+    "coil freezing",
+    "not cooling",
+    "not draining",
+    "not filling",
+    "not charging",
+    "boot loop",
+    "no spin"
+  ],
+  "prohibited_diy_patterns": [
+    "open electrical",
+    "handle live wiring",
+    "live wire",
+    "bypass safety",
+    "bypass interlock",
+    "puncture battery",
+    "pry swollen battery",
+    "discharge capacitor by hand",
+    "remove safety ground"
+  ]
+}

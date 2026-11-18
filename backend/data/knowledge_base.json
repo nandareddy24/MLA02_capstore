@@ -1,0 +1,376 @@
+{
+  "knowledge_base_version": "1.0.0",
+  "records": [
+    {
+      "id": "kb_sp_battery_degradation",
+      "device_category": "smartphone",
+      "fault_category": "Battery Degradation",
+      "related_symptoms": [
+        "Rapid battery drain",
+        "Not charging or slow charging",
+        "Unexpected shutdowns",
+        "Overheating during normal use"
+      ],
+      "possible_causes": [
+        "Lithium-ion battery cell aging reduces charge retention and increases internal resistance, causing warmth and rapid discharge.",
+        "Faulty charging cables, debris in the charging port, or runaway background apps can mimic or accelerate battery wear."
+      ],
+      "severity": "medium",
+      "safety_warnings": [
+        "Do not attempt to pry open a sealed smartphone enclosure or puncture the battery.",
+        "If the back cover begins lifting, swelling, or emitting odor, stop using the device immediately."
+      ],
+      "recommended_initial_checks": [
+        {
+          "id": "chk_sp_battery_health",
+          "title": "Inspect battery usage and health settings",
+          "instructions": "Open Settings > Battery to verify whether a single background application is causing abnormal drain and check the system-reported battery health indicator.",
+          "risk_level": "safe",
+          "is_checkable": true,
+          "estimated_minutes": 3
+        }
+      ],
+      "troubleshooting_steps": [
+        {
+          "id": "step_sp_certified_charger",
+          "title": "Test with a manufacturer-certified cable and adapter",
+          "instructions": "Disconnect third-party chargers and test charging using a known-good certified cable and power adapter connected directly to a wall outlet.",
+          "risk_level": "safe",
+          "is_checkable": true,
+          "estimated_minutes": 5
+        },
+        {
+          "id": "step_sp_restart_updates",
+          "title": "Restart the phone and check pending OS updates",
+          "instructions": "Perform a standard reboot and install pending operating system updates that resolve power management bugs.",
+          "risk_level": "safe",
+          "is_checkable": true,
+          "estimated_minutes": 10
+        },
+        {
+          "id": "step_sp_service_replacement",
+          "title": "Schedule authorized battery replacement",
+          "instructions": "If battery health is degraded or unexpected shutdowns persist after software and charger checks, arrange replacement through an authorized service center.",
+          "risk_level": "caution",
+          "is_checkable": false,
+          "estimated_minutes": 30
+        }
+      ],
+      "escalation_requirements": "Contact an authorized mobile repair technician if rapid drain or shutdowns continue after charger verification, or immediately if the device becomes too hot to hold.",
+      "emergency_guidance": null,
+      "expert_review_status": "reviewed"
+    },
+    {
+      "id": "kb_sp_battery_swelling",
+      "device_category": "smartphone",
+      "fault_category": "Swollen Battery Hazard",
+      "related_symptoms": [
+        "Battery swelling or back cover lift",
+        "Overheating during normal use"
+      ],
+      "possible_causes": [
+        "Internal gas buildup from thermal or chemical degradation inside a lithium-ion battery cell."
+      ],
+      "severity": "high",
+      "safety_warnings": [
+        "Stop using and charging the smartphone immediately.",
+        "Do not press, squeeze, bend, puncture, or attempt to remove a swollen lithium-ion battery.",
+        "Keep the device away from flammable materials and heat sources."
+      ],
+      "recommended_initial_checks": [
+        {
+          "id": "chk_sp_unplug_safely",
+          "title": "Unplug charger and power off the device",
+          "instructions": "Safely unplug the charging cable from the wall outlet first, power off the phone if safe to touch, and place it on a non-flammable surface in a ventilated area.",
+          "risk_level": "high",
+          "is_checkable": false,
+          "estimated_minutes": 2
+        }
+      ],
+      "troubleshooting_steps": [
+        {
+          "id": "step_sp_isolate_device",
+          "title": "Isolate the device in a cool, dry place",
+          "instructions": "Do not store the device in a pocket, bag, or near combustible surfaces. Avoid subjecting it to mechanical pressure.",
+          "risk_level": "high",
+          "is_checkable": false,
+          "estimated_minutes": 2
+        },
+        {
+          "id": "step_sp_authorized_disposal",
+          "title": "Transport safely to an authorized repair or e-waste facility",
+          "instructions": "Contact an authorized service center or certified electronics recycler for safe battery containment and replacement.",
+          "risk_level": "high",
+          "is_checkable": false,
+          "estimated_minutes": 20
+        }
+      ],
+      "escalation_requirements": "Immediate qualified technician intervention is required. Do not continue operating or charging the device.",
+      "emergency_guidance": "If the battery begins hissing, smoking, or catching fire, evacuate the immediate area and contact local emergency services.",
+      "expert_review_status": "reviewed"
+    },
+    {
+      "id": "kb_lp_thermal_cooling",
+      "device_category": "laptop",
+      "fault_category": "Thermal Management or Cooling Fault",
+      "related_symptoms": [
+        "Excessive chassis heat",
+        "Constant loud or grinding fan noise",
+        "Severe slowdown when warm",
+        "Shuts down abruptly under load"
+      ],
+      "possible_causes": [
+        "Blocked intake/exhaust air vents, dust accumulation on cooling fins, degraded fan bearings, or runaway background CPU load."
+      ],
+      "severity": "medium",
+      "safety_warnings": [
+        "Do not block bottom or side vents by using the laptop on soft fabrics such as beds or cushions.",
+        "Do not open the laptop chassis while connected to AC power."
+      ],
+      "recommended_initial_checks": [
+        {
+          "id": "chk_lp_vents_surface",
+          "title": "Check external airflow and operating surface",
+          "instructions": "Place the laptop on a flat, hard surface and verify that intake and exhaust vents are unobstructed.",
+          "risk_level": "safe",
+          "is_checkable": true,
+          "estimated_minutes": 2
+        }
+      ],
+      "troubleshooting_steps": [
+        {
+          "id": "step_lp_task_manager",
+          "title": "Inspect CPU utilization for runaway processes",
+          "instructions": "Open Task Manager or Activity Monitor to check whether a stuck application or update process is holding CPU usage near 100%.",
+          "risk_level": "safe",
+          "is_checkable": true,
+          "estimated_minutes": 5
+        },
+        {
+          "id": "step_lp_power_profile",
+          "title": "Switch to a balanced power profile",
+          "instructions": "Set system power mode to Balanced and observe whether fan speed and chassis temperature stabilize during light tasks.",
+          "risk_level": "safe",
+          "is_checkable": true,
+          "estimated_minutes": 3
+        },
+        {
+          "id": "step_lp_tech_cleaning",
+          "title": "Request professional internal cleaning and fan inspection",
+          "instructions": "If grinding fan noise or thermal shutdowns persist, have a technician clean internal heatsinks, inspect the fan assembly, and refresh thermal compound.",
+          "risk_level": "caution",
+          "is_checkable": false,
+          "estimated_minutes": 45
+        }
+      ],
+      "escalation_requirements": "Escalate to a qualified computer technician if thermal shutdowns continue, fan grinding is audible, or the chassis becomes painfully hot.",
+      "emergency_guidance": null,
+      "expert_review_status": "reviewed"
+    },
+    {
+      "id": "kb_ac_electrical_hazard",
+      "device_category": "air_conditioner",
+      "fault_category": "Electrical Overload or Insulation Fault",
+      "related_symptoms": [
+        "Trips circuit breaker when starting",
+        "Burning or chemical odor from vents"
+      ],
+      "possible_causes": [
+        "Shorted compressor winding, failing start capacitor, damaged power feed, or overloaded branch circuit."
+      ],
+      "severity": "high",
+      "safety_warnings": [
+        "Stop operating the air conditioner immediately and leave the circuit breaker in the OFF position.",
+        "Do not repeatedly reset a tripping circuit breaker.",
+        "Do not open electrical access panels or touch internal capacitors or wiring."
+      ],
+      "recommended_initial_checks": [
+        {
+          "id": "chk_ac_shutdown_breaker",
+          "title": "Turn off unit controls and leave circuit disconnected",
+          "instructions": "Switch the air conditioner off at the thermostat or remote control and keep the dedicated breaker off until inspected.",
+          "risk_level": "high",
+          "is_checkable": false,
+          "estimated_minutes": 2
+        }
+      ],
+      "troubleshooting_steps": [
+        {
+          "id": "step_ac_ventilate_area",
+          "title": "Ventilate the room if odor is present",
+          "instructions": "Open windows and avoid remaining in an enclosed room if a burning or chemical smell was detected.",
+          "risk_level": "high",
+          "is_checkable": false,
+          "estimated_minutes": 5
+        },
+        {
+          "id": "step_ac_licensed_hvac",
+          "title": "Contact a licensed HVAC technician or electrician",
+          "instructions": "Schedule an on-site electrical insulation and compressor load inspection with a licensed HVAC professional.",
+          "risk_level": "high",
+          "is_checkable": false,
+          "estimated_minutes": 30
+        }
+      ],
+      "escalation_requirements": "Mandatory inspection by a licensed HVAC technician or certified electrician before restoring power.",
+      "emergency_guidance": "If you see smoke, sparks, or smell persistent electrical burning after shutting off the breaker, evacuate and call emergency services immediately.",
+      "expert_review_status": "reviewed"
+    },
+    {
+      "id": "kb_ac_airflow_cooling",
+      "device_category": "air_conditioner",
+      "fault_category": "Airflow Restriction or Low Cooling Efficiency",
+      "related_symptoms": [
+        "Blowing warm or room-temperature air",
+        "Weak airflow from indoor vents",
+        "Ice forming on coils or refrigerant lines"
+      ],
+      "possible_causes": [
+        "Clogged return air filters, incorrect thermostat mode, blocked outdoor condenser airflow, or low refrigerant charge."
+      ],
+      "severity": "safe",
+      "safety_warnings": [
+        "Turn the air conditioner off before inspecting or rinsing removable washable intake filters.",
+        "Do not attempt to handle refrigerant lines or pressurize the system yourself."
+      ],
+      "recommended_initial_checks": [
+        {
+          "id": "chk_ac_thermostat_mode",
+          "title": "Verify thermostat mode and temperature setpoint",
+          "instructions": "Confirm the unit is set to Cool mode (not Fan Only) with the setpoint at least 3°C below current room temperature.",
+          "risk_level": "safe",
+          "is_checkable": true,
+          "estimated_minutes": 2
+        }
+      ],
+      "troubleshooting_steps": [
+        {
+          "id": "step_ac_filter_check",
+          "title": "Inspect and clean the removable air filter",
+          "instructions": "Power off the indoor unit, slide out the user-accessible washable dust filter per the owner's manual, rinse with clean water, and dry completely before reinstalling.",
+          "risk_level": "safe",
+          "is_checkable": true,
+          "estimated_minutes": 15
+        },
+        {
+          "id": "step_ac_outdoor_clearance",
+          "title": "Check external clearance around the outdoor unit",
+          "instructions": "Visually confirm from a safe distance that leaves, debris, or objects are not blocking airflow around the outdoor condenser grille.",
+          "risk_level": "safe",
+          "is_checkable": true,
+          "estimated_minutes": 5
+        },
+        {
+          "id": "step_ac_hvac_service",
+          "title": "Book licensed HVAC refrigerant and coil check",
+          "instructions": "If coil icing returns or warm air persists after cleaning the filter, schedule an HVAC technician to inspect refrigerant pressure and blower performance.",
+          "risk_level": "caution",
+          "is_checkable": false,
+          "estimated_minutes": 45
+        }
+      ],
+      "escalation_requirements": "Contact a licensed HVAC technician if coils freeze repeatedly, cooling does not improve after filter cleaning, or unusual mechanical noises occur.",
+      "emergency_guidance": null,
+      "expert_review_status": "reviewed"
+    },
+    {
+      "id": "kb_rf_cooling_fault",
+      "device_category": "refrigerator",
+      "fault_category": "Cooling Performance or Seal Fault",
+      "related_symptoms": [
+        "Fresh food compartment not cooling",
+        "Excessive frost or ice buildup",
+        "Door gasket not sealing properly",
+        "Compressor runs continuously"
+      ],
+      "possible_causes": [
+        "Blocked internal air vents, worn door gasket letting humid air enter, incorrect temperature dial setting, or defrost system malfunction."
+      ],
+      "severity": "safe",
+      "safety_warnings": [
+        "Do not use sharp metal tools to chip away frost or ice, as this can puncture refrigerant tubing.",
+        "Discard perishable food that has remained above safe storage temperature."
+      ],
+      "recommended_initial_checks": [
+        {
+          "id": "chk_rf_temp_vents",
+          "title": "Verify temperature setting and internal vent clearance",
+          "instructions": "Check that temperature controls are set to manufacturer defaults and ensure food containers are not blocking cold air vents between compartments.",
+          "risk_level": "safe",
+          "is_checkable": true,
+          "estimated_minutes": 3
+        }
+      ],
+      "troubleshooting_steps": [
+        {
+          "id": "step_rf_gasket_check",
+          "title": "Inspect door gasket alignment and cleanliness",
+          "instructions": "Wipe the rubber door seal with warm mild soapy water and verify the door closes flush all the way around without gaps.",
+          "risk_level": "safe",
+          "is_checkable": true,
+          "estimated_minutes": 5
+        },
+        {
+          "id": "step_rf_appliance_tech",
+          "title": "Schedule appliance technician defrost & sealed-system check",
+          "instructions": "If warm temperatures or heavy frost return within 24 hours, contact a qualified appliance technician to inspect the defrost heater, thermistor, and compressor.",
+          "risk_level": "caution",
+          "is_checkable": false,
+          "estimated_minutes": 45
+        }
+      ],
+      "escalation_requirements": "Contact a certified appliance technician if compartment temperatures remain warm after verifying vents and door seals, or if repeated rear relay clicking occurs.",
+      "emergency_guidance": null,
+      "expert_review_status": "reviewed"
+    },
+    {
+      "id": "kb_wm_drainage_fault",
+      "device_category": "washing_machine",
+      "fault_category": "Drainage Obstruction or Pump Fault",
+      "related_symptoms": [
+        "Water remains in drum (not draining)",
+        "Stops mid-cycle with fault code",
+        "Drum does not spin or agitate"
+      ],
+      "possible_causes": [
+        "Kinked external drain hose, lint or coins blocking the user-accessible drain filter trap, or a failing drain pump."
+      ],
+      "severity": "medium",
+      "safety_warnings": [
+        "Unplug the washing machine and keep the floor dry to prevent slipping or electrical shock.",
+        "Confirm water inside the drum has cooled before opening any front-access drain trap."
+      ],
+      "recommended_initial_checks": [
+        {
+          "id": "chk_wm_hose_kink",
+          "title": "Inspect the external drain hose for kinks",
+          "instructions": "Visually check the visible drain hose behind or beside the machine to confirm it is not crushed, kinked, or elevated above manufacturer height limits.",
+          "risk_level": "safe",
+          "is_checkable": true,
+          "estimated_minutes": 3
+        }
+      ],
+      "troubleshooting_steps": [
+        {
+          "id": "step_wm_user_filter",
+          "title": "Clean the user-accessible coin trap filter (if equipped)",
+          "instructions": "Unplug the machine, place a shallow tray and towel under the front service flap, and follow the owner's manual to clear coins or lint from the drain trap.",
+          "risk_level": "caution",
+          "is_checkable": false,
+          "estimated_minutes": 15
+        },
+        {
+          "id": "step_wm_tech_pump",
+          "title": "Contact an appliance technician for pump inspection",
+          "instructions": "If the machine still fails to drain or displays a persistent pump error code, schedule professional service rather than disassembling internal electrical housings.",
+          "risk_level": "caution",
+          "is_checkable": false,
+          "estimated_minutes": 45
+        }
+      ],
+      "escalation_requirements": "Contact a qualified appliance technician if drainage fails after checking the hose and accessible trap, or if water leaks onto the floor.",
+      "emergency_guidance": null,
+      "expert_review_status": "reviewed"
+    }
+  ]
+}
