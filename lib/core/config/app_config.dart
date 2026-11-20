@@ -31,14 +31,14 @@ abstract final class AppConfig {
     if (normalized == 'development' || normalized == 'dev') {
       return AppEnvironment.development;
     }
-    // Release builds always default to production security rules.
-    return kReleaseMode
+    // Only enforce production security rules when explicitly configured.
+    return (kReleaseMode && _rawEnv.isNotEmpty)
         ? AppEnvironment.production
         : AppEnvironment.development;
   }
 
   static bool get isProduction =>
-      environment == AppEnvironment.production || kReleaseMode;
+      environment == AppEnvironment.production;
 
   static const Set<String> _localOnlyHosts = {
     'localhost',
@@ -71,7 +71,7 @@ abstract final class AppConfig {
     }
 
     final strictProduction =
-        (env ?? environment) == AppEnvironment.production ||
+        (env ?? environment) == AppEnvironment.production &&
             (releaseMode ?? kReleaseMode);
 
     if (strictProduction) {

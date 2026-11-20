@@ -48,6 +48,7 @@ app.*.map.json
 android/key.properties
 *.jks
 *.keystore
+*.exe
 
 # Python ML backend runtime artifacts & secrets
 backend/.env
