@@ -1,0 +1,601 @@
+device_category,manufacturer,device_age,operating_environment,started_when,error_code,symptoms,fault_category
+washing_machine,Samsung,< 1 year,Industrial / Dusty,1–4 weeks ago,,Loud grinding sound during pump operation,Drainage Obstruction or Pump Fault
+air_conditioner,LG,2–4 years,Indoor – Normal,1–4 weeks ago,ERR-12,Burning smell from indoor or outdoor unit|Trips circuit breaker immediately|Overheating during normal use,Electrical Overload or Insulation Fault
+desktop,Lenovo,1–2 years,Commercial / Constant Use,Within the last week,,Unexpected shutdowns,Power Supply Unit (PSU) Failure
+washing_machine,Bosch,2–4 years,Commercial / Constant Use,1–4 weeks ago,UE-02,Violent shaking or banging during spin cycle|Drum fails to spin,Drum Suspension or Imbalance Fault
+laptop,Lenovo,4+ years,Commercial / Constant Use,Within the last week,,Plugged in but not charging,Battery Degradation or Failure
+laptop,Apple,2–4 years,High Temperature,Just today,EDP-01,Screen flickering or lines,Display Panel or Inverter Issue
+smartphone,Google,2–4 years,High Humidity,Within the last week,,Stuck in boot loop|Overheating during normal use,Thermal Throttling or Mainboard Overheating
+smartphone,OPPO,< 1 year,High Temperature,Within the last week,,Not charging or slow charging|Rapid battery drain|Overheating during normal use,Battery Degradation
+washing_machine,IFB,4+ years,High Temperature,1–4 weeks ago,OE-01,Water not draining|Loud grinding sound during pump operation,Drainage Obstruction or Pump Fault
+washing_machine,Whirlpool,1–2 years,Indoor – Normal,More than a month ago,5E,Loud grinding sound during pump operation|Water not draining,Drainage Obstruction or Pump Fault
+washing_machine,Whirlpool,2–4 years,High Temperature,Just today,UE-02,Drum fails to spin,Drum Suspension or Imbalance Fault
+desktop,iBuyPower,2–4 years,Industrial / Dusty,Within the last week,,Unexpected shutdowns|Device does not power on,Power Supply Unit (PSU) Failure
+laptop,Lenovo,< 1 year,Commercial / Constant Use,Within the last week,FAN-01,Overheating and thermal throttling|Loud fan or fan not spinning|Sudden shutdown under heavy load,Thermal Management or Cooling Fault
+washing_machine,IFB,2–4 years,Industrial / Dusty,1–4 weeks ago,UB-01,Drum fails to spin,Drum Suspension or Imbalance Fault
+smartphone,Motorola,2–4 years,High Temperature,1–4 weeks ago,BAT-90,Overheating during normal use,Swollen Battery Hazard
+air_conditioner,Daikin,4+ years,High Humidity,More than a month ago,E-99,Burning smell from indoor or outdoor unit|Frequent freezing or lag,Electrical Overload or Insulation Fault
+television,LG,1–2 years,High Humidity,1–4 weeks ago,,Screen flickering or lines|Frequent freezing or lag,Mainboard or T-Con Board Fault
+smartphone,Motorola,2–4 years,Commercial / Constant Use,More than a month ago,BAT-90,Device does not power on,Swollen Battery Hazard
+smartphone,Samsung,< 1 year,Industrial / Dusty,More than a month ago,,Stuck in boot loop|Frequent freezing or lag|Overheating during normal use,Thermal Throttling or Mainboard Overheating
+laptop,Dell,4+ years,Commercial / Constant Use,More than a month ago,BAT-03,Plugged in but not charging|Unexpected shutdowns|Rapid battery drain,Battery Degradation or Failure
+refrigerator,Bosch,4+ years,Industrial / Dusty,More than a month ago,,Heavy ice buildup on evaporator coils,Defrost System Failure
+smartphone,Xiaomi,1–2 years,Commercial / Constant Use,Within the last week,BAT-01,Overheating during normal use|Rapid battery drain|Unexpected shutdowns|Not charging or slow charging,Battery Degradation
+desktop,Lenovo,1–2 years,Commercial / Constant Use,Just today,,Unexpected shutdowns|Device does not power on,Power Supply Unit (PSU) Failure
+laptop,Dell,< 1 year,Industrial / Dusty,Just today,DISP-02,Screen flickering or lines|Blank screen while powered on,Display Panel or Inverter Issue
+washing_machine,LG,1–2 years,Commercial / Constant Use,More than a month ago,5E,Loud grinding sound during pump operation|Error code displayed at end of wash cycle|Overheating during normal use,Drainage Obstruction or Pump Fault
+smartphone,Xiaomi,2–4 years,Commercial / Constant Use,Within the last week,BAT-01,Rapid battery drain|Not charging or slow charging|Overheating during normal use|Unexpected shutdowns,Battery Degradation
+laptop,Lenovo,< 1 year,Indoor – Normal,1–4 weeks ago,TEMP-90,Sudden shutdown under heavy load|Loud fan or fan not spinning,Thermal Management or Cooling Fault
+washing_machine,LG,2–4 years,High Humidity,Just today,UNB-01,Drum fails to spin,Drum Suspension or Imbalance Fault
+laptop,Acer,< 1 year,Commercial / Constant Use,More than a month ago,PWR-11,Rapid battery drain|Plugged in but not charging|Unexpected shutdowns,Battery Degradation or Failure
+laptop,HP,1–2 years,High Humidity,More than a month ago,THM-02,Sudden shutdown under heavy load|Overheating and thermal throttling|Loud fan or fan not spinning|Frequent freezing or lag,Thermal Management or Cooling Fault
+refrigerator,Haier,4+ years,Commercial / Constant Use,Just today,DEF-01,Water leaking underneath|Heavy ice buildup on evaporator coils,Defrost System Failure
+television,Hisense,2–4 years,Indoor – Normal,More than a month ago,,Screen flickering or lines,Mainboard or T-Con Board Fault
+laptop,HP,2–4 years,Indoor – Normal,1–4 weeks ago,,Blank screen while powered on|Screen flickering or lines,Display Panel or Inverter Issue
+desktop,iBuyPower,< 1 year,Indoor – Normal,More than a month ago,,Screen flickering or lines|Not charging or slow charging,GPU Artifacting or Driver Crash
+smartphone,Xiaomi,< 1 year,High Humidity,Within the last week,BAT-90,Battery swelling or back cover lift|Unexpected shutdowns,Swollen Battery Hazard
+refrigerator,Bosch,1–2 years,Commercial / Constant Use,Just today,DEF-02,Heavy ice buildup on evaporator coils|Fresh food compartment warm|Water leaking underneath,Defrost System Failure
+washing_machine,IFB,2–4 years,Indoor – Normal,1–4 weeks ago,,Drum fails to spin|Violent shaking or banging during spin cycle,Drum Suspension or Imbalance Fault
+smartphone,Xiaomi,4+ years,Industrial / Dusty,1–4 weeks ago,THM-01,Frequent freezing or lag,Thermal Throttling or Mainboard Overheating
+smartphone,Samsung,< 1 year,High Humidity,More than a month ago,,Overheating during normal use,Thermal Throttling or Mainboard Overheating
+laptop,Acer,2–4 years,High Temperature,Within the last week,FAN-01,Overheating and thermal throttling,Thermal Management or Cooling Fault
+smartphone,Samsung,4+ years,Commercial / Constant Use,Within the last week,THM-01,Frequent freezing or lag|Stuck in boot loop,Thermal Throttling or Mainboard Overheating
+refrigerator,Haier,4+ years,Commercial / Constant Use,Within the last week,REF-01,Continuous compressor running without cooling|Fresh food compartment warm|Freezer frosting excessively,Cooling Performance or Seal Fault
+laptop,HP,< 1 year,High Temperature,More than a month ago,DISP-02,Screen flickering or lines|Blank screen while powered on,Display Panel or Inverter Issue
+washing_machine,Bosch,2–4 years,Commercial / Constant Use,Just today,UE-02,Drum fails to spin|Overheating during normal use,Drum Suspension or Imbalance Fault
+air_conditioner,Voltas,4+ years,High Humidity,More than a month ago,,Outdoor unit does not turn on|Blowing room-temperature air instead of cold air,Compressor Failure or Capacitor Fault
+smartphone,Samsung,4+ years,Indoor – Normal,1–4 weeks ago,THM-05,Overheating during normal use,Thermal Throttling or Mainboard Overheating
+refrigerator,Samsung,4+ years,Indoor – Normal,1–4 weeks ago,SEAL-02,Fresh food compartment warm|Continuous compressor running without cooling,Cooling Performance or Seal Fault
+television,Hisense,4+ years,Commercial / Constant Use,1–4 weeks ago,,Abnormal brightness or discoloration|Blank screen while powered on|Unexpected shutdowns,Backlight Inverter or LED Strip Failure
+laptop,Acer,1–2 years,Indoor – Normal,More than a month ago,DISK-99,Frequent freezing or lag|Stuck in boot loop,Storage Drive Failure or Corruption
+laptop,Acer,2–4 years,Industrial / Dusty,Within the last week,DISP-02,Blank screen while powered on,Display Panel or Inverter Issue
+refrigerator,Samsung,1–2 years,High Humidity,Just today,REF-01,Continuous compressor running without cooling|Fresh food compartment warm,Cooling Performance or Seal Fault
+desktop,Dell,< 1 year,High Temperature,More than a month ago,PWR-01,Device does not power on,Power Supply Unit (PSU) Failure
+air_conditioner,Voltas,< 1 year,Industrial / Dusty,More than a month ago,ICE-01,Blowing room-temperature air instead of cold air|Weak airflow from vents,Airflow Restriction or Low Cooling Efficiency
+smartphone,Google,4+ years,Industrial / Dusty,Within the last week,DSP-01,Blank screen while powered on|Screen flickering or lines,Display Panel or Flex Cable Fault
+smartphone,Xiaomi,1–2 years,High Temperature,Within the last week,BAT-99,Device does not power on|Not charging or slow charging,Swollen Battery Hazard
+air_conditioner,Daikin,4+ years,Commercial / Constant Use,1–4 weeks ago,ICE-01,Ice buildup on refrigerant lines,Airflow Restriction or Low Cooling Efficiency
+laptop,Acer,1–2 years,Industrial / Dusty,Just today,,Stuck in boot loop|Frequent freezing or lag,Storage Drive Failure or Corruption
+washing_machine,LG,2–4 years,High Temperature,Within the last week,UNB-01,Violent shaking or banging during spin cycle,Drum Suspension or Imbalance Fault
+refrigerator,Whirlpool,4+ years,Indoor – Normal,1–4 weeks ago,F-04,Fresh food compartment warm|Water leaking underneath|Heavy ice buildup on evaporator coils,Defrost System Failure
+air_conditioner,Samsung,< 1 year,Commercial / Constant Use,Just today,ERR-12,Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+television,Hisense,< 1 year,High Humidity,Within the last week,MAIN-05,Stuck in boot loop|Screen flickering or lines,Mainboard or T-Con Board Fault
+smartphone,OnePlus,2–4 years,High Humidity,Within the last week,DSP-01,Abnormal brightness or discoloration|Blank screen while powered on|Unexpected shutdowns,Display Panel or Flex Cable Fault
+smartphone,Motorola,1–2 years,Industrial / Dusty,Just today,PWR-02,Device does not power on|Not charging or slow charging,Charging Port or PMIC Failure
+laptop,Acer,4+ years,High Humidity,Just today,BOOT-01,Stuck in boot loop|Frequent freezing or lag,Storage Drive Failure or Corruption
+smartphone,Google,2–4 years,Indoor – Normal,Within the last week,,Battery swelling or back cover lift|Overheating during normal use|Device does not power on,Swollen Battery Hazard
+television,LG,2–4 years,High Temperature,Just today,MAIN-05,Stuck in boot loop|Overheating during normal use,Mainboard or T-Con Board Fault
+television,Hisense,1–2 years,Industrial / Dusty,Within the last week,,Screen flickering or lines,Mainboard or T-Con Board Fault
+smartphone,Xiaomi,2–4 years,Commercial / Constant Use,1–4 weeks ago,USB-03,Device does not power on|Not charging or slow charging,Charging Port or PMIC Failure
+television,TCL,< 1 year,High Humidity,Just today,MAIN-05,Screen flickering or lines,Mainboard or T-Con Board Fault
+smartphone,Apple,< 1 year,High Temperature,Just today,,Blank screen while powered on|Abnormal brightness or discoloration|Unexpected shutdowns,Display Panel or Flex Cable Fault
+smartphone,Apple,4+ years,Industrial / Dusty,Just today,,Overheating during normal use|Device does not power on,Swollen Battery Hazard
+desktop,Lenovo,4+ years,Commercial / Constant Use,1–4 weeks ago,VGA-01,Screen flickering or lines|Frequent freezing or lag,GPU Artifacting or Driver Crash
+laptop,HP,1–2 years,Commercial / Constant Use,More than a month ago,BOOT-01,Frequent freezing or lag|Stuck in boot loop,Storage Drive Failure or Corruption
+desktop,iBuyPower,2–4 years,Industrial / Dusty,Within the last week,,Frequent freezing or lag|Screen flickering or lines,GPU Artifacting or Driver Crash
+smartphone,Xiaomi,1–2 years,Industrial / Dusty,Within the last week,PWR-02,Not charging or slow charging,Charging Port or PMIC Failure
+desktop,Lenovo,< 1 year,Industrial / Dusty,1–4 weeks ago,VGA-01,Screen flickering or lines|Frequent freezing or lag,GPU Artifacting or Driver Crash
+air_conditioner,Voltas,1–2 years,Indoor – Normal,More than a month ago,CMP-01,Blowing room-temperature air instead of cold air,Compressor Failure or Capacitor Fault
+desktop,Custom PC,< 1 year,High Temperature,More than a month ago,,Device does not power on,Power Supply Unit (PSU) Failure
+smartphone,Apple,1–2 years,Indoor – Normal,Within the last week,PWR-02,Device does not power on,Charging Port or PMIC Failure
+air_conditioner,Carrier,2–4 years,Commercial / Constant Use,1–4 weeks ago,E-04,Ice buildup on refrigerant lines|Weak airflow from vents|Blowing room-temperature air instead of cold air,Airflow Restriction or Low Cooling Efficiency
+laptop,Lenovo,< 1 year,Commercial / Constant Use,More than a month ago,BOOT-01,Frequent freezing or lag,Storage Drive Failure or Corruption
+desktop,iBuyPower,2–4 years,High Humidity,1–4 weeks ago,PSU-01,Device does not power on,Power Supply Unit (PSU) Failure
+laptop,Apple,4+ years,Commercial / Constant Use,1–4 weeks ago,BAT-03,Rapid battery drain|Unexpected shutdowns|Plugged in but not charging,Battery Degradation or Failure
+washing_machine,Bosch,4+ years,High Temperature,Just today,DRN-01,Error code displayed at end of wash cycle|Loud grinding sound during pump operation,Drainage Obstruction or Pump Fault
+laptop,Dell,1–2 years,High Temperature,Within the last week,PWR-11,Unexpected shutdowns|Rapid battery drain|Plugged in but not charging,Battery Degradation or Failure
+air_conditioner,Daikin,< 1 year,Indoor – Normal,Within the last week,,Blowing room-temperature air instead of cold air,Compressor Failure or Capacitor Fault
+refrigerator,LG,1–2 years,High Temperature,Within the last week,DEF-02,Fresh food compartment warm|Heavy ice buildup on evaporator coils|Water leaking underneath|Overheating during normal use,Defrost System Failure
+smartphone,Google,< 1 year,High Temperature,More than a month ago,THM-01,Stuck in boot loop|Frequent freezing or lag,Thermal Throttling or Mainboard Overheating
+smartphone,Google,< 1 year,Industrial / Dusty,Just today,,Abnormal brightness or discoloration|Frequent freezing or lag,Display Panel or Flex Cable Fault
+laptop,Acer,4+ years,High Humidity,More than a month ago,BAT-03,Plugged in but not charging|Rapid battery drain,Battery Degradation or Failure
+television,LG,1–2 years,High Humidity,More than a month ago,BL-01,Abnormal brightness or discoloration|Blank screen while powered on,Backlight Inverter or LED Strip Failure
+smartphone,Samsung,1–2 years,Commercial / Constant Use,1–4 weeks ago,BAT-02,Unexpected shutdowns,Battery Degradation
+washing_machine,Bosch,4+ years,Commercial / Constant Use,Within the last week,5E,Error code displayed at end of wash cycle|Overheating during normal use,Drainage Obstruction or Pump Fault
+television,Samsung,2–4 years,Indoor – Normal,Within the last week,,Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+washing_machine,Bosch,2–4 years,Industrial / Dusty,Just today,,Loud grinding sound during pump operation|Error code displayed at end of wash cycle,Drainage Obstruction or Pump Fault
+laptop,Dell,2–4 years,Industrial / Dusty,More than a month ago,PWR-11,Unexpected shutdowns,Battery Degradation or Failure
+smartphone,Samsung,1–2 years,High Humidity,1–4 weeks ago,,Overheating during normal use|Battery swelling or back cover lift|Device does not power on,Swollen Battery Hazard
+refrigerator,Haier,1–2 years,Indoor – Normal,More than a month ago,SEAL-02,Continuous compressor running without cooling|Fresh food compartment warm,Cooling Performance or Seal Fault
+laptop,ASUS,< 1 year,Indoor – Normal,Just today,BAT-03,Unexpected shutdowns,Battery Degradation or Failure
+laptop,Apple,4+ years,High Temperature,1–4 weeks ago,EDP-01,Blank screen while powered on,Display Panel or Inverter Issue
+washing_machine,Bosch,1–2 years,Commercial / Constant Use,Within the last week,UB-01,Violent shaking or banging during spin cycle,Drum Suspension or Imbalance Fault
+laptop,ASUS,1–2 years,High Humidity,Just today,,Sudden shutdown under heavy load|Overheating and thermal throttling|Loud fan or fan not spinning,Thermal Management or Cooling Fault
+television,Samsung,4+ years,Commercial / Constant Use,Just today,MAIN-05,Stuck in boot loop|Screen flickering or lines,Mainboard or T-Con Board Fault
+television,LG,2–4 years,High Humidity,More than a month ago,,Blank screen while powered on|Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+laptop,Lenovo,< 1 year,Industrial / Dusty,More than a month ago,,Rapid battery drain|Unexpected shutdowns,Battery Degradation or Failure
+washing_machine,LG,< 1 year,High Humidity,Just today,UNB-01,Drum fails to spin|Violent shaking or banging during spin cycle,Drum Suspension or Imbalance Fault
+desktop,HP,4+ years,High Humidity,Within the last week,VGA-01,Screen flickering or lines|Frequent freezing or lag,GPU Artifacting or Driver Crash
+smartphone,Google,2–4 years,High Humidity,Just today,THM-01,Frequent freezing or lag|Stuck in boot loop,Thermal Throttling or Mainboard Overheating
+smartphone,Samsung,< 1 year,High Humidity,Within the last week,,Unresponsive or ghost touch|Blank screen while powered on|Abnormal brightness or discoloration|Screen flickering or lines,Display Panel or Flex Cable Fault
+smartphone,OPPO,2–4 years,Indoor – Normal,Just today,BAT-90,Device does not power on|Overheating during normal use,Swollen Battery Hazard
+television,Samsung,2–4 years,Indoor – Normal,Within the last week,BL-01,Abnormal brightness or discoloration|Blank screen while powered on,Backlight Inverter or LED Strip Failure
+smartphone,OnePlus,1–2 years,High Temperature,More than a month ago,PWR-02,Device does not power on,Charging Port or PMIC Failure
+laptop,HP,1–2 years,Commercial / Constant Use,1–4 weeks ago,DISK-99,Stuck in boot loop,Storage Drive Failure or Corruption
+smartphone,OnePlus,2–4 years,Industrial / Dusty,1–4 weeks ago,PWR-02,Device does not power on|Not charging or slow charging,Charging Port or PMIC Failure
+desktop,Custom PC,4+ years,High Humidity,Just today,,Screen flickering or lines|Frequent freezing or lag,GPU Artifacting or Driver Crash
+laptop,Apple,2–4 years,Indoor – Normal,More than a month ago,,Blank screen while powered on|Screen flickering or lines|Not charging or slow charging,Display Panel or Inverter Issue
+smartphone,OPPO,< 1 year,Commercial / Constant Use,Just today,DISP-10,Screen flickering or lines|Blank screen while powered on,Display Panel or Flex Cable Fault
+air_conditioner,Samsung,4+ years,Indoor – Normal,Just today,CAP-02,Outdoor unit does not turn on,Compressor Failure or Capacitor Fault
+refrigerator,LG,< 1 year,Industrial / Dusty,1–4 weeks ago,E-22,Fresh food compartment warm|Freezer frosting excessively|Frequent freezing or lag,Cooling Performance or Seal Fault
+smartphone,OnePlus,< 1 year,Indoor – Normal,More than a month ago,,Unresponsive or ghost touch|Screen flickering or lines|Abnormal brightness or discoloration,Display Panel or Flex Cable Fault
+air_conditioner,Samsung,4+ years,High Humidity,More than a month ago,E-01,Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+air_conditioner,Daikin,4+ years,Indoor – Normal,Within the last week,ERR-05,Blowing room-temperature air instead of cold air|Ice buildup on refrigerant lines,Airflow Restriction or Low Cooling Efficiency
+air_conditioner,Daikin,2–4 years,Industrial / Dusty,Just today,E-99,Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+smartphone,Apple,4+ years,High Temperature,1–4 weeks ago,,Not charging or slow charging,Battery Degradation
+air_conditioner,Mitsubishi,< 1 year,High Humidity,1–4 weeks ago,CMP-01,Outdoor unit does not turn on,Compressor Failure or Capacitor Fault
+television,Sony,2–4 years,Industrial / Dusty,More than a month ago,TCON-01,Screen flickering or lines|Stuck in boot loop|Overheating during normal use,Mainboard or T-Con Board Fault
+smartphone,Motorola,< 1 year,High Humidity,Within the last week,DSP-01,Blank screen while powered on|Unresponsive or ghost touch|Abnormal brightness or discoloration|Screen flickering or lines,Display Panel or Flex Cable Fault
+washing_machine,LG,< 1 year,High Temperature,1–4 weeks ago,DRN-01,Water not draining,Drainage Obstruction or Pump Fault
+air_conditioner,Samsung,2–4 years,High Temperature,1–4 weeks ago,E-04,Ice buildup on refrigerant lines,Airflow Restriction or Low Cooling Efficiency
+washing_machine,Bosch,< 1 year,High Humidity,Within the last week,UNB-01,Violent shaking or banging during spin cycle,Drum Suspension or Imbalance Fault
+television,Sony,2–4 years,High Temperature,Just today,,Blank screen while powered on,Backlight Inverter or LED Strip Failure
+laptop,Dell,< 1 year,Indoor – Normal,More than a month ago,DISK-99,Frequent freezing or lag,Storage Drive Failure or Corruption
+smartphone,Google,1–2 years,Indoor – Normal,Within the last week,SYS-02,Overheating during normal use|Frequent freezing or lag|Stuck in boot loop,Thermal Throttling or Mainboard Overheating
+refrigerator,Bosch,4+ years,Indoor – Normal,Within the last week,E-22,Freezer frosting excessively|Continuous compressor running without cooling|Fresh food compartment warm,Cooling Performance or Seal Fault
+smartphone,Xiaomi,2–4 years,Industrial / Dusty,Just today,,Unresponsive or ghost touch,Display Panel or Flex Cable Fault
+air_conditioner,Samsung,2–4 years,Indoor – Normal,Just today,ICE-01,Ice buildup on refrigerant lines|Blowing room-temperature air instead of cold air|Weak airflow from vents,Airflow Restriction or Low Cooling Efficiency
+smartphone,OnePlus,1–2 years,Commercial / Constant Use,1–4 weeks ago,BAT-90,Overheating during normal use|Battery swelling or back cover lift|Device does not power on,Swollen Battery Hazard
+washing_machine,IFB,1–2 years,Industrial / Dusty,More than a month ago,UB-01,Violent shaking or banging during spin cycle|Drum fails to spin,Drum Suspension or Imbalance Fault
+desktop,HP,2–4 years,High Humidity,1–4 weeks ago,,Screen flickering or lines,GPU Artifacting or Driver Crash
+refrigerator,LG,< 1 year,Indoor – Normal,Within the last week,SEAL-02,Freezer frosting excessively|Not charging or slow charging,Cooling Performance or Seal Fault
+refrigerator,Bosch,< 1 year,Commercial / Constant Use,1–4 weeks ago,,Heavy ice buildup on evaporator coils|Fresh food compartment warm|Water leaking underneath,Defrost System Failure
+air_conditioner,Voltas,1–2 years,Commercial / Constant Use,Within the last week,,Burning smell from indoor or outdoor unit|Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+refrigerator,Haier,2–4 years,High Humidity,1–4 weeks ago,SEAL-02,Fresh food compartment warm|Continuous compressor running without cooling,Cooling Performance or Seal Fault
+laptop,Acer,4+ years,High Humidity,Within the last week,DISK-99,Frequent freezing or lag|Stuck in boot loop,Storage Drive Failure or Corruption
+refrigerator,LG,1–2 years,Industrial / Dusty,1–4 weeks ago,E-22,Freezer frosting excessively|Continuous compressor running without cooling|Fresh food compartment warm|Frequent freezing or lag,Cooling Performance or Seal Fault
+laptop,HP,< 1 year,Indoor – Normal,1–4 weeks ago,PWR-11,Plugged in but not charging,Battery Degradation or Failure
+desktop,HP,4+ years,Commercial / Constant Use,More than a month ago,GPU-43,Frequent freezing or lag|Screen flickering or lines,GPU Artifacting or Driver Crash
+smartphone,OPPO,4+ years,High Humidity,More than a month ago,,Overheating during normal use,Battery Degradation
+desktop,Dell,4+ years,Indoor – Normal,More than a month ago,VGA-01,Frequent freezing or lag,GPU Artifacting or Driver Crash
+air_conditioner,Mitsubishi,4+ years,Indoor – Normal,More than a month ago,,Blowing room-temperature air instead of cold air,Compressor Failure or Capacitor Fault
+refrigerator,LG,2–4 years,Indoor – Normal,Within the last week,E-22,Freezer frosting excessively|Fresh food compartment warm|Continuous compressor running without cooling,Cooling Performance or Seal Fault
+washing_machine,Bosch,2–4 years,Commercial / Constant Use,More than a month ago,E-20,Error code displayed at end of wash cycle|Water not draining,Drainage Obstruction or Pump Fault
+laptop,Dell,< 1 year,Commercial / Constant Use,Within the last week,,Blank screen while powered on|Screen flickering or lines,Display Panel or Inverter Issue
+smartphone,Samsung,< 1 year,Indoor – Normal,More than a month ago,BAT-05,Unexpected shutdowns|Not charging or slow charging|Overheating during normal use|Rapid battery drain,Battery Degradation
+air_conditioner,Daikin,2–4 years,High Temperature,1–4 weeks ago,,Blowing room-temperature air instead of cold air|Outdoor unit does not turn on|Not charging or slow charging,Compressor Failure or Capacitor Fault
+desktop,Lenovo,4+ years,High Temperature,Within the last week,PWR-01,Device does not power on|Unexpected shutdowns,Power Supply Unit (PSU) Failure
+desktop,iBuyPower,4+ years,Commercial / Constant Use,Just today,,Unexpected shutdowns,Power Supply Unit (PSU) Failure
+air_conditioner,Mitsubishi,< 1 year,High Temperature,1–4 weeks ago,E-01,Trips circuit breaker immediately|Burning smell from indoor or outdoor unit,Electrical Overload or Insulation Fault
+washing_machine,Bosch,1–2 years,Industrial / Dusty,Within the last week,E-20,Water not draining|Loud grinding sound during pump operation|Error code displayed at end of wash cycle,Drainage Obstruction or Pump Fault
+washing_machine,IFB,4+ years,High Temperature,More than a month ago,E-20,Loud grinding sound during pump operation|Water not draining|Error code displayed at end of wash cycle|Not charging or slow charging,Drainage Obstruction or Pump Fault
+smartphone,Google,4+ years,Commercial / Constant Use,Within the last week,,Not charging or slow charging,Charging Port or PMIC Failure
+air_conditioner,LG,1–2 years,Industrial / Dusty,1–4 weeks ago,,Outdoor unit does not turn on|Unexpected shutdowns,Compressor Failure or Capacitor Fault
+laptop,Apple,1–2 years,High Humidity,1–4 weeks ago,TEMP-90,Sudden shutdown under heavy load,Thermal Management or Cooling Fault
+desktop,iBuyPower,< 1 year,Indoor – Normal,More than a month ago,,Device does not power on|Unexpected shutdowns|Overheating during normal use,Power Supply Unit (PSU) Failure
+smartphone,Xiaomi,2–4 years,Industrial / Dusty,1–4 weeks ago,BAT-90,Device does not power on,Swollen Battery Hazard
+smartphone,Motorola,2–4 years,Indoor – Normal,Just today,USB-03,Not charging or slow charging,Charging Port or PMIC Failure
+smartphone,Xiaomi,2–4 years,High Temperature,1–4 weeks ago,,Not charging or slow charging|Device does not power on|Frequent freezing or lag,Charging Port or PMIC Failure
+washing_machine,IFB,4+ years,High Temperature,1–4 weeks ago,,Drum fails to spin,Drum Suspension or Imbalance Fault
+smartphone,Xiaomi,< 1 year,Commercial / Constant Use,1–4 weeks ago,,Not charging or slow charging|Rapid battery drain|Overheating during normal use,Battery Degradation
+smartphone,OnePlus,< 1 year,High Humidity,More than a month ago,USB-03,Device does not power on|Not charging or slow charging,Charging Port or PMIC Failure
+smartphone,Xiaomi,2–4 years,High Humidity,Within the last week,BAT-05,Rapid battery drain,Battery Degradation
+laptop,ASUS,2–4 years,Indoor – Normal,More than a month ago,FAN-01,Sudden shutdown under heavy load|Overheating and thermal throttling,Thermal Management or Cooling Fault
+laptop,Apple,1–2 years,High Temperature,Just today,,Overheating and thermal throttling|Loud fan or fan not spinning|Sudden shutdown under heavy load,Thermal Management or Cooling Fault
+smartphone,Samsung,1–2 years,Indoor – Normal,1–4 weeks ago,THM-05,Frequent freezing or lag|Overheating during normal use|Stuck in boot loop,Thermal Throttling or Mainboard Overheating
+smartphone,Motorola,1–2 years,High Humidity,Just today,BAT-02,Overheating during normal use|Not charging or slow charging,Battery Degradation
+laptop,Acer,2–4 years,High Humidity,1–4 weeks ago,DISK-99,Frequent freezing or lag|Stuck in boot loop,Storage Drive Failure or Corruption
+laptop,Lenovo,< 1 year,Indoor – Normal,More than a month ago,BOOT-01,Stuck in boot loop,Storage Drive Failure or Corruption
+smartphone,Samsung,2–4 years,Industrial / Dusty,Just today,CHG-01,Device does not power on|Not charging or slow charging|Overheating during normal use,Charging Port or PMIC Failure
+laptop,ASUS,< 1 year,Indoor – Normal,Just today,BAT-03,Rapid battery drain|Unexpected shutdowns|Plugged in but not charging,Battery Degradation or Failure
+smartphone,OnePlus,< 1 year,Industrial / Dusty,1–4 weeks ago,,Abnormal brightness or discoloration|Unresponsive or ghost touch|Screen flickering or lines|Blank screen while powered on,Display Panel or Flex Cable Fault
+laptop,Dell,< 1 year,High Humidity,Within the last week,,Loud fan or fan not spinning|Frequent freezing or lag,Thermal Management or Cooling Fault
+refrigerator,Samsung,< 1 year,Indoor – Normal,More than a month ago,,Continuous compressor running without cooling|Frequent freezing or lag,Cooling Performance or Seal Fault
+refrigerator,LG,2–4 years,Industrial / Dusty,1–4 weeks ago,SEAL-02,Continuous compressor running without cooling,Cooling Performance or Seal Fault
+television,LG,2–4 years,Indoor – Normal,1–4 weeks ago,,Stuck in boot loop,Mainboard or T-Con Board Fault
+refrigerator,LG,1–2 years,High Temperature,1–4 weeks ago,,Water leaking underneath|Fresh food compartment warm|Heavy ice buildup on evaporator coils,Defrost System Failure
+smartphone,Xiaomi,4+ years,Commercial / Constant Use,1–4 weeks ago,SYS-02,Overheating during normal use|Stuck in boot loop|Frequent freezing or lag,Thermal Throttling or Mainboard Overheating
+smartphone,OnePlus,2–4 years,Industrial / Dusty,1–4 weeks ago,DISP-10,Blank screen while powered on|Abnormal brightness or discoloration,Display Panel or Flex Cable Fault
+laptop,Lenovo,4+ years,Commercial / Constant Use,Just today,,Rapid battery drain|Frequent freezing or lag,Battery Degradation or Failure
+smartphone,OPPO,< 1 year,High Humidity,Within the last week,,Battery swelling or back cover lift,Swollen Battery Hazard
+laptop,Apple,2–4 years,High Humidity,1–4 weeks ago,BAT-03,Unexpected shutdowns|Rapid battery drain|Overheating during normal use,Battery Degradation or Failure
+television,Sony,1–2 years,High Humidity,Just today,,Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+refrigerator,Samsung,2–4 years,High Humidity,1–4 weeks ago,,Heavy ice buildup on evaporator coils|Water leaking underneath,Defrost System Failure
+desktop,Dell,4+ years,Commercial / Constant Use,More than a month ago,VGA-01,Screen flickering or lines,GPU Artifacting or Driver Crash
+television,LG,< 1 year,High Humidity,1–4 weeks ago,BL-01,Blank screen while powered on|Abnormal brightness or discoloration|Overheating during normal use,Backlight Inverter or LED Strip Failure
+laptop,Acer,1–2 years,Industrial / Dusty,Within the last week,,Frequent freezing or lag,Storage Drive Failure or Corruption
+laptop,Apple,1–2 years,High Temperature,Just today,,Blank screen while powered on|Screen flickering or lines,Display Panel or Inverter Issue
+smartphone,OPPO,< 1 year,Commercial / Constant Use,1–4 weeks ago,THM-01,Stuck in boot loop|Overheating during normal use,Thermal Throttling or Mainboard Overheating
+television,Hisense,2–4 years,Industrial / Dusty,Within the last week,BL-01,Blank screen while powered on|Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+laptop,ASUS,4+ years,Industrial / Dusty,1–4 weeks ago,,Loud fan or fan not spinning|Overheating and thermal throttling,Thermal Management or Cooling Fault
+air_conditioner,Carrier,2–4 years,Indoor – Normal,1–4 weeks ago,CMP-01,Outdoor unit does not turn on|Blowing room-temperature air instead of cold air,Compressor Failure or Capacitor Fault
+refrigerator,Whirlpool,< 1 year,Indoor – Normal,More than a month ago,,Continuous compressor running without cooling|Frequent freezing or lag,Cooling Performance or Seal Fault
+air_conditioner,Voltas,1–2 years,Industrial / Dusty,1–4 weeks ago,,Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+television,TCL,2–4 years,Commercial / Constant Use,Within the last week,BL-01,Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+smartphone,Google,4+ years,High Temperature,1–4 weeks ago,BAT-99,Battery swelling or back cover lift|Device does not power on,Swollen Battery Hazard
+desktop,Custom PC,< 1 year,Commercial / Constant Use,Just today,PWR-01,Device does not power on,Power Supply Unit (PSU) Failure
+smartphone,OnePlus,2–4 years,Commercial / Constant Use,Just today,,Overheating during normal use,Swollen Battery Hazard
+television,Hisense,4+ years,High Temperature,Within the last week,,Blank screen while powered on,Backlight Inverter or LED Strip Failure
+smartphone,Xiaomi,2–4 years,Commercial / Constant Use,Within the last week,CHG-01,Not charging or slow charging,Charging Port or PMIC Failure
+laptop,ASUS,< 1 year,High Humidity,Within the last week,PWR-11,Plugged in but not charging|Unexpected shutdowns|Rapid battery drain|Frequent freezing or lag,Battery Degradation or Failure
+smartphone,Google,4+ years,Indoor – Normal,Within the last week,DISP-10,Abnormal brightness or discoloration|Unresponsive or ghost touch|Screen flickering or lines|Blank screen while powered on,Display Panel or Flex Cable Fault
+smartphone,Apple,< 1 year,High Humidity,More than a month ago,THM-01,Stuck in boot loop|Frequent freezing or lag,Thermal Throttling or Mainboard Overheating
+smartphone,Xiaomi,1–2 years,Indoor – Normal,Within the last week,,Blank screen while powered on|Abnormal brightness or discoloration|Unresponsive or ghost touch,Display Panel or Flex Cable Fault
+laptop,Lenovo,< 1 year,High Temperature,Within the last week,,Stuck in boot loop|Frequent freezing or lag,Storage Drive Failure or Corruption
+smartphone,Apple,4+ years,Commercial / Constant Use,Just today,BAT-90,Battery swelling or back cover lift|Device does not power on|Overheating during normal use,Swollen Battery Hazard
+smartphone,Apple,1–2 years,Commercial / Constant Use,More than a month ago,BAT-99,Device does not power on|Battery swelling or back cover lift|Overheating during normal use,Swollen Battery Hazard
+television,Samsung,< 1 year,High Temperature,Within the last week,BL-01,Blank screen while powered on|Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+smartphone,OPPO,1–2 years,High Humidity,More than a month ago,,Battery swelling or back cover lift|Overheating during normal use,Swollen Battery Hazard
+desktop,Lenovo,< 1 year,High Temperature,More than a month ago,VGA-01,Frequent freezing or lag|Screen flickering or lines|Unexpected shutdowns,GPU Artifacting or Driver Crash
+laptop,Acer,4+ years,High Temperature,More than a month ago,EDP-01,Blank screen while powered on,Display Panel or Inverter Issue
+refrigerator,Samsung,< 1 year,Commercial / Constant Use,Just today,DEF-01,Fresh food compartment warm|Heavy ice buildup on evaporator coils,Defrost System Failure
+washing_machine,Samsung,2–4 years,High Humidity,More than a month ago,,Water not draining|Loud grinding sound during pump operation|Error code displayed at end of wash cycle|Unexpected shutdowns,Drainage Obstruction or Pump Fault
+washing_machine,Samsung,< 1 year,High Humidity,1–4 weeks ago,E-20,Error code displayed at end of wash cycle|Water not draining|Loud grinding sound during pump operation,Drainage Obstruction or Pump Fault
+air_conditioner,Mitsubishi,2–4 years,High Temperature,Within the last week,CMP-01,Outdoor unit does not turn on,Compressor Failure or Capacitor Fault
+air_conditioner,Samsung,< 1 year,Industrial / Dusty,More than a month ago,ERR-12,Trips circuit breaker immediately|Burning smell from indoor or outdoor unit,Electrical Overload or Insulation Fault
+washing_machine,LG,4+ years,Industrial / Dusty,Just today,OE-01,Water not draining|Loud grinding sound during pump operation|Error code displayed at end of wash cycle,Drainage Obstruction or Pump Fault
+laptop,Apple,1–2 years,High Humidity,Within the last week,PWR-11,Rapid battery drain|Unexpected shutdowns|Plugged in but not charging,Battery Degradation or Failure
+refrigerator,LG,1–2 years,Commercial / Constant Use,Within the last week,,Fresh food compartment warm|Heavy ice buildup on evaporator coils|Frequent freezing or lag,Defrost System Failure
+smartphone,Motorola,1–2 years,Industrial / Dusty,Just today,BAT-02,Not charging or slow charging|Rapid battery drain|Unexpected shutdowns|Overheating during normal use,Battery Degradation
+laptop,Dell,2–4 years,Industrial / Dusty,More than a month ago,,Screen flickering or lines|Blank screen while powered on,Display Panel or Inverter Issue
+laptop,ASUS,4+ years,Industrial / Dusty,Within the last week,,Frequent freezing or lag|Stuck in boot loop,Storage Drive Failure or Corruption
+refrigerator,Haier,4+ years,Commercial / Constant Use,Just today,SEAL-02,Fresh food compartment warm,Cooling Performance or Seal Fault
+smartphone,Motorola,< 1 year,High Humidity,Just today,DSP-04,Screen flickering or lines,Display Panel or Flex Cable Fault
+smartphone,OPPO,< 1 year,Indoor – Normal,Just today,BAT-01,Rapid battery drain|Not charging or slow charging,Battery Degradation
+laptop,Acer,4+ years,High Humidity,Within the last week,DISP-02,Screen flickering or lines,Display Panel or Inverter Issue
+washing_machine,Whirlpool,1–2 years,High Temperature,1–4 weeks ago,OE-01,Loud grinding sound during pump operation,Drainage Obstruction or Pump Fault
+laptop,HP,< 1 year,Commercial / Constant Use,Within the last week,,Blank screen while powered on|Screen flickering or lines|Unexpected shutdowns,Display Panel or Inverter Issue
+laptop,Apple,4+ years,Industrial / Dusty,1–4 weeks ago,THM-02,Loud fan or fan not spinning|Overheating and thermal throttling,Thermal Management or Cooling Fault
+smartphone,OnePlus,2–4 years,Commercial / Constant Use,Just today,BAT-01,Overheating during normal use,Battery Degradation
+air_conditioner,Voltas,1–2 years,Industrial / Dusty,1–4 weeks ago,ERR-05,Ice buildup on refrigerant lines,Airflow Restriction or Low Cooling Efficiency
+desktop,Custom PC,1–2 years,Industrial / Dusty,1–4 weeks ago,PWR-01,Unexpected shutdowns,Power Supply Unit (PSU) Failure
+refrigerator,Whirlpool,4+ years,High Temperature,Within the last week,DEF-01,Fresh food compartment warm|Water leaking underneath,Defrost System Failure
+smartphone,Samsung,1–2 years,Indoor – Normal,Just today,THM-05,Stuck in boot loop,Thermal Throttling or Mainboard Overheating
+laptop,HP,2–4 years,Indoor – Normal,Just today,EDP-01,Blank screen while powered on,Display Panel or Inverter Issue
+laptop,Lenovo,2–4 years,High Temperature,Just today,BAT-03,Unexpected shutdowns,Battery Degradation or Failure
+air_conditioner,Carrier,< 1 year,High Humidity,Just today,ERR-05,Ice buildup on refrigerant lines|Blowing room-temperature air instead of cold air|Unexpected shutdowns,Airflow Restriction or Low Cooling Efficiency
+smartphone,OPPO,4+ years,Indoor – Normal,Within the last week,CHG-01,Not charging or slow charging,Charging Port or PMIC Failure
+air_conditioner,Carrier,1–2 years,High Temperature,Within the last week,ERR-05,Blowing room-temperature air instead of cold air,Airflow Restriction or Low Cooling Efficiency
+laptop,ASUS,2–4 years,High Humidity,Within the last week,,Unexpected shutdowns|Plugged in but not charging,Battery Degradation or Failure
+desktop,Dell,2–4 years,High Temperature,Within the last week,VGA-01,Frequent freezing or lag,GPU Artifacting or Driver Crash
+television,Samsung,< 1 year,Commercial / Constant Use,More than a month ago,,Blank screen while powered on,Backlight Inverter or LED Strip Failure
+refrigerator,Samsung,1–2 years,High Humidity,Just today,SEAL-02,Fresh food compartment warm|Freezer frosting excessively,Cooling Performance or Seal Fault
+refrigerator,Bosch,1–2 years,Industrial / Dusty,1–4 weeks ago,REF-01,Continuous compressor running without cooling|Freezer frosting excessively,Cooling Performance or Seal Fault
+laptop,ASUS,1–2 years,Indoor – Normal,Within the last week,,Frequent freezing or lag,Storage Drive Failure or Corruption
+television,Sony,< 1 year,Commercial / Constant Use,Within the last week,LED-02,Abnormal brightness or discoloration|Blank screen while powered on|Overheating during normal use,Backlight Inverter or LED Strip Failure
+laptop,Apple,1–2 years,Industrial / Dusty,Within the last week,EDP-01,Screen flickering or lines|Frequent freezing or lag,Display Panel or Inverter Issue
+television,Samsung,2–4 years,Commercial / Constant Use,More than a month ago,LED-02,Blank screen while powered on|Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+smartphone,Google,< 1 year,Commercial / Constant Use,Within the last week,DSP-04,Blank screen while powered on|Unresponsive or ghost touch|Abnormal brightness or discoloration|Screen flickering or lines|Unexpected shutdowns,Display Panel or Flex Cable Fault
+television,Sony,2–4 years,High Humidity,More than a month ago,,Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+desktop,Dell,2–4 years,Industrial / Dusty,More than a month ago,,Unexpected shutdowns|Device does not power on,Power Supply Unit (PSU) Failure
+laptop,ASUS,4+ years,Commercial / Constant Use,1–4 weeks ago,DISK-99,Stuck in boot loop|Frequent freezing or lag|Unexpected shutdowns,Storage Drive Failure or Corruption
+air_conditioner,LG,2–4 years,High Temperature,1–4 weeks ago,CMP-01,Blowing room-temperature air instead of cold air,Compressor Failure or Capacitor Fault
+smartphone,Samsung,1–2 years,Industrial / Dusty,Within the last week,CHG-01,Not charging or slow charging|Device does not power on,Charging Port or PMIC Failure
+smartphone,Samsung,1–2 years,Indoor – Normal,More than a month ago,DSP-04,Screen flickering or lines|Frequent freezing or lag,Display Panel or Flex Cable Fault
+television,LG,4+ years,Commercial / Constant Use,1–4 weeks ago,LED-02,Abnormal brightness or discoloration|Blank screen while powered on,Backlight Inverter or LED Strip Failure
+desktop,Dell,< 1 year,Commercial / Constant Use,Within the last week,PSU-01,Device does not power on|Unexpected shutdowns,Power Supply Unit (PSU) Failure
+washing_machine,Whirlpool,1–2 years,High Humidity,1–4 weeks ago,OE-01,Water not draining,Drainage Obstruction or Pump Fault
+air_conditioner,Mitsubishi,1–2 years,Commercial / Constant Use,Within the last week,CMP-01,Outdoor unit does not turn on|Blowing room-temperature air instead of cold air,Compressor Failure or Capacitor Fault
+television,Hisense,2–4 years,Industrial / Dusty,Within the last week,TCON-01,Stuck in boot loop,Mainboard or T-Con Board Fault
+washing_machine,Samsung,4+ years,High Humidity,Within the last week,OE-01,Water not draining,Drainage Obstruction or Pump Fault
+air_conditioner,LG,< 1 year,High Temperature,Just today,CMP-01,Outdoor unit does not turn on|Blowing room-temperature air instead of cold air,Compressor Failure or Capacitor Fault
+smartphone,OnePlus,4+ years,High Temperature,Just today,BAT-01,Not charging or slow charging|Unexpected shutdowns|Rapid battery drain|Overheating during normal use,Battery Degradation
+laptop,Acer,1–2 years,High Humidity,1–4 weeks ago,BAT-03,Rapid battery drain,Battery Degradation or Failure
+smartphone,Google,4+ years,Industrial / Dusty,Within the last week,BAT-90,Overheating during normal use|Battery swelling or back cover lift,Swollen Battery Hazard
+air_conditioner,Voltas,< 1 year,High Humidity,More than a month ago,ERR-05,Ice buildup on refrigerant lines,Airflow Restriction or Low Cooling Efficiency
+air_conditioner,Carrier,2–4 years,Industrial / Dusty,Within the last week,E-99,Burning smell from indoor or outdoor unit|Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+refrigerator,Bosch,2–4 years,High Humidity,More than a month ago,,Water leaking underneath|Fresh food compartment warm|Heavy ice buildup on evaporator coils,Defrost System Failure
+smartphone,Samsung,1–2 years,High Temperature,More than a month ago,USB-03,Device does not power on|Not charging or slow charging,Charging Port or PMIC Failure
+laptop,Lenovo,4+ years,High Humidity,Within the last week,FAN-01,Overheating and thermal throttling|Sudden shutdown under heavy load|Overheating during normal use,Thermal Management or Cooling Fault
+television,TCL,4+ years,High Temperature,Within the last week,TCON-01,Stuck in boot loop|Screen flickering or lines,Mainboard or T-Con Board Fault
+laptop,Dell,< 1 year,Commercial / Constant Use,Within the last week,PWR-11,Unexpected shutdowns|Rapid battery drain|Plugged in but not charging,Battery Degradation or Failure
+desktop,HP,< 1 year,Commercial / Constant Use,1–4 weeks ago,PWR-01,Device does not power on|Unexpected shutdowns,Power Supply Unit (PSU) Failure
+refrigerator,Bosch,2–4 years,Commercial / Constant Use,More than a month ago,REF-01,Freezer frosting excessively|Fresh food compartment warm|Continuous compressor running without cooling,Cooling Performance or Seal Fault
+desktop,HP,2–4 years,Industrial / Dusty,1–4 weeks ago,VGA-01,Screen flickering or lines|Frequent freezing or lag,GPU Artifacting or Driver Crash
+refrigerator,LG,< 1 year,Industrial / Dusty,Just today,,Fresh food compartment warm,Cooling Performance or Seal Fault
+smartphone,OnePlus,1–2 years,High Temperature,More than a month ago,THM-05,Overheating during normal use,Thermal Throttling or Mainboard Overheating
+television,Samsung,2–4 years,Industrial / Dusty,Just today,TCON-01,Screen flickering or lines|Stuck in boot loop,Mainboard or T-Con Board Fault
+air_conditioner,Samsung,< 1 year,Industrial / Dusty,1–4 weeks ago,E-04,Blowing room-temperature air instead of cold air|Ice buildup on refrigerant lines,Airflow Restriction or Low Cooling Efficiency
+washing_machine,LG,< 1 year,Industrial / Dusty,More than a month ago,OE-01,Error code displayed at end of wash cycle|Loud grinding sound during pump operation|Not charging or slow charging,Drainage Obstruction or Pump Fault
+smartphone,Xiaomi,< 1 year,Industrial / Dusty,Just today,BAT-99,Overheating during normal use,Swollen Battery Hazard
+smartphone,Apple,4+ years,High Temperature,More than a month ago,CHG-01,Device does not power on|Not charging or slow charging,Charging Port or PMIC Failure
+laptop,ASUS,2–4 years,High Temperature,Within the last week,PWR-11,Plugged in but not charging|Rapid battery drain|Unexpected shutdowns,Battery Degradation or Failure
+smartphone,Xiaomi,< 1 year,Industrial / Dusty,1–4 weeks ago,DISP-10,Abnormal brightness or discoloration|Unresponsive or ghost touch|Blank screen while powered on,Display Panel or Flex Cable Fault
+air_conditioner,Carrier,4+ years,High Temperature,Just today,ERR-12,Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+laptop,ASUS,< 1 year,Commercial / Constant Use,Within the last week,,Rapid battery drain|Plugged in but not charging|Frequent freezing or lag,Battery Degradation or Failure
+desktop,Dell,< 1 year,High Humidity,More than a month ago,PWR-01,Unexpected shutdowns,Power Supply Unit (PSU) Failure
+television,Sony,1–2 years,High Temperature,Just today,TCON-01,Stuck in boot loop|Screen flickering or lines,Mainboard or T-Con Board Fault
+smartphone,Xiaomi,< 1 year,Industrial / Dusty,1–4 weeks ago,SYS-02,Frequent freezing or lag,Thermal Throttling or Mainboard Overheating
+smartphone,Xiaomi,2–4 years,Industrial / Dusty,More than a month ago,,Unresponsive or ghost touch|Blank screen while powered on|Abnormal brightness or discoloration|Overheating during normal use,Display Panel or Flex Cable Fault
+refrigerator,Samsung,< 1 year,High Humidity,Within the last week,DEF-01,Heavy ice buildup on evaporator coils,Defrost System Failure
+refrigerator,Samsung,4+ years,Industrial / Dusty,More than a month ago,E-22,Freezer frosting excessively|Fresh food compartment warm|Continuous compressor running without cooling,Cooling Performance or Seal Fault
+refrigerator,Whirlpool,2–4 years,Indoor – Normal,1–4 weeks ago,E-22,Continuous compressor running without cooling|Fresh food compartment warm|Overheating during normal use,Cooling Performance or Seal Fault
+washing_machine,Whirlpool,1–2 years,Commercial / Constant Use,Just today,E-20,Loud grinding sound during pump operation|Error code displayed at end of wash cycle|Overheating during normal use,Drainage Obstruction or Pump Fault
+television,Samsung,4+ years,High Humidity,Within the last week,LED-02,Abnormal brightness or discoloration|Blank screen while powered on,Backlight Inverter or LED Strip Failure
+smartphone,Apple,2–4 years,Commercial / Constant Use,More than a month ago,,Overheating during normal use|Unexpected shutdowns|Not charging or slow charging|Rapid battery drain,Battery Degradation
+refrigerator,Haier,4+ years,Indoor – Normal,Just today,DEF-02,Heavy ice buildup on evaporator coils|Water leaking underneath|Fresh food compartment warm,Defrost System Failure
+air_conditioner,Mitsubishi,< 1 year,High Humidity,More than a month ago,E-01,Trips circuit breaker immediately|Burning smell from indoor or outdoor unit,Electrical Overload or Insulation Fault
+laptop,ASUS,< 1 year,High Humidity,Just today,THM-02,Sudden shutdown under heavy load|Loud fan or fan not spinning,Thermal Management or Cooling Fault
+air_conditioner,LG,4+ years,Commercial / Constant Use,More than a month ago,,Burning smell from indoor or outdoor unit|Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+washing_machine,Samsung,1–2 years,Industrial / Dusty,1–4 weeks ago,UB-01,Violent shaking or banging during spin cycle,Drum Suspension or Imbalance Fault
+desktop,Dell,< 1 year,High Humidity,Within the last week,,Screen flickering or lines,GPU Artifacting or Driver Crash
+washing_machine,Whirlpool,2–4 years,High Humidity,Within the last week,,Violent shaking or banging during spin cycle|Drum fails to spin,Drum Suspension or Imbalance Fault
+air_conditioner,LG,2–4 years,High Humidity,More than a month ago,CMP-01,Outdoor unit does not turn on|Blowing room-temperature air instead of cold air,Compressor Failure or Capacitor Fault
+laptop,Acer,1–2 years,High Humidity,Just today,DISP-02,Blank screen while powered on|Screen flickering or lines,Display Panel or Inverter Issue
+laptop,Dell,2–4 years,High Temperature,Just today,TEMP-90,Sudden shutdown under heavy load,Thermal Management or Cooling Fault
+air_conditioner,Daikin,2–4 years,High Humidity,Within the last week,,Burning smell from indoor or outdoor unit|Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+laptop,HP,4+ years,High Humidity,More than a month ago,EDP-01,Screen flickering or lines|Blank screen while powered on,Display Panel or Inverter Issue
+smartphone,Xiaomi,< 1 year,Commercial / Constant Use,Just today,DSP-04,Abnormal brightness or discoloration|Unresponsive or ghost touch|Blank screen while powered on|Screen flickering or lines,Display Panel or Flex Cable Fault
+laptop,Acer,< 1 year,Indoor – Normal,Within the last week,,Stuck in boot loop|Frequent freezing or lag|Not charging or slow charging,Storage Drive Failure or Corruption
+smartphone,Apple,4+ years,High Temperature,1–4 weeks ago,DISP-10,Abnormal brightness or discoloration,Display Panel or Flex Cable Fault
+washing_machine,IFB,4+ years,High Temperature,Just today,,Loud grinding sound during pump operation|Overheating during normal use,Drainage Obstruction or Pump Fault
+laptop,Dell,1–2 years,Industrial / Dusty,More than a month ago,BOOT-01,Frequent freezing or lag,Storage Drive Failure or Corruption
+laptop,Lenovo,1–2 years,High Humidity,Just today,DISK-99,Frequent freezing or lag|Stuck in boot loop,Storage Drive Failure or Corruption
+laptop,HP,< 1 year,High Humidity,1–4 weeks ago,,Overheating and thermal throttling,Thermal Management or Cooling Fault
+washing_machine,IFB,2–4 years,Commercial / Constant Use,Within the last week,DRN-01,Loud grinding sound during pump operation|Error code displayed at end of wash cycle,Drainage Obstruction or Pump Fault
+refrigerator,Whirlpool,< 1 year,Commercial / Constant Use,Just today,E-22,Continuous compressor running without cooling,Cooling Performance or Seal Fault
+smartphone,OPPO,< 1 year,High Temperature,1–4 weeks ago,DSP-04,Screen flickering or lines|Abnormal brightness or discoloration|Unresponsive or ghost touch|Blank screen while powered on,Display Panel or Flex Cable Fault
+smartphone,OPPO,2–4 years,High Temperature,Just today,BAT-02,Rapid battery drain,Battery Degradation
+air_conditioner,Mitsubishi,1–2 years,Commercial / Constant Use,Within the last week,,Blowing room-temperature air instead of cold air,Compressor Failure or Capacitor Fault
+air_conditioner,Carrier,4+ years,Commercial / Constant Use,1–4 weeks ago,,Burning smell from indoor or outdoor unit|Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+laptop,Acer,2–4 years,Industrial / Dusty,1–4 weeks ago,BAT-03,Rapid battery drain|Unexpected shutdowns|Plugged in but not charging|Frequent freezing or lag,Battery Degradation or Failure
+desktop,Lenovo,< 1 year,High Humidity,1–4 weeks ago,,Screen flickering or lines,GPU Artifacting or Driver Crash
+air_conditioner,Carrier,< 1 year,Indoor – Normal,More than a month ago,CMP-01,Outdoor unit does not turn on|Blowing room-temperature air instead of cold air,Compressor Failure or Capacitor Fault
+smartphone,Samsung,4+ years,High Humidity,More than a month ago,,Overheating during normal use,Swollen Battery Hazard
+washing_machine,Whirlpool,2–4 years,High Temperature,Within the last week,UB-01,Drum fails to spin|Not charging or slow charging,Drum Suspension or Imbalance Fault
+refrigerator,Whirlpool,2–4 years,Commercial / Constant Use,Within the last week,,Heavy ice buildup on evaporator coils|Fresh food compartment warm|Water leaking underneath,Defrost System Failure
+refrigerator,Samsung,2–4 years,High Temperature,Just today,,Heavy ice buildup on evaporator coils|Fresh food compartment warm|Water leaking underneath,Defrost System Failure
+laptop,Apple,4+ years,Commercial / Constant Use,Within the last week,,Frequent freezing or lag|Stuck in boot loop,Storage Drive Failure or Corruption
+television,Hisense,2–4 years,Commercial / Constant Use,Within the last week,,Screen flickering or lines,Mainboard or T-Con Board Fault
+desktop,Lenovo,1–2 years,High Temperature,1–4 weeks ago,PWR-01,Unexpected shutdowns|Overheating during normal use,Power Supply Unit (PSU) Failure
+television,LG,2–4 years,High Temperature,Just today,TCON-01,Screen flickering or lines|Stuck in boot loop|Unexpected shutdowns,Mainboard or T-Con Board Fault
+smartphone,Apple,< 1 year,High Humidity,1–4 weeks ago,THM-01,Overheating during normal use|Stuck in boot loop|Not charging or slow charging,Thermal Throttling or Mainboard Overheating
+smartphone,Samsung,< 1 year,Commercial / Constant Use,Within the last week,SYS-02,Frequent freezing or lag,Thermal Throttling or Mainboard Overheating
+desktop,Lenovo,1–2 years,Industrial / Dusty,More than a month ago,PSU-01,Unexpected shutdowns|Device does not power on,Power Supply Unit (PSU) Failure
+air_conditioner,Samsung,< 1 year,High Temperature,More than a month ago,ICE-01,Ice buildup on refrigerant lines|Weak airflow from vents|Blowing room-temperature air instead of cold air|Unexpected shutdowns,Airflow Restriction or Low Cooling Efficiency
+smartphone,Samsung,1–2 years,Indoor – Normal,More than a month ago,BAT-05,Not charging or slow charging,Battery Degradation
+smartphone,Motorola,1–2 years,Indoor – Normal,1–4 weeks ago,USB-03,Device does not power on|Not charging or slow charging,Charging Port or PMIC Failure
+air_conditioner,Daikin,4+ years,Commercial / Constant Use,Just today,ICE-01,Weak airflow from vents|Not charging or slow charging,Airflow Restriction or Low Cooling Efficiency
+air_conditioner,Mitsubishi,2–4 years,Indoor – Normal,1–4 weeks ago,E-01,Trips circuit breaker immediately|Burning smell from indoor or outdoor unit,Electrical Overload or Insulation Fault
+laptop,Lenovo,1–2 years,Indoor – Normal,Within the last week,,Sudden shutdown under heavy load|Loud fan or fan not spinning|Not charging or slow charging,Thermal Management or Cooling Fault
+television,Hisense,2–4 years,Commercial / Constant Use,More than a month ago,BL-01,Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+smartphone,Apple,4+ years,Indoor – Normal,Within the last week,,Not charging or slow charging|Overheating during normal use,Battery Degradation
+refrigerator,Haier,1–2 years,High Humidity,Within the last week,,Fresh food compartment warm|Heavy ice buildup on evaporator coils,Defrost System Failure
+laptop,Lenovo,2–4 years,High Humidity,More than a month ago,DISP-02,Blank screen while powered on,Display Panel or Inverter Issue
+air_conditioner,Carrier,1–2 years,Industrial / Dusty,Within the last week,ERR-05,Weak airflow from vents|Ice buildup on refrigerant lines|Blowing room-temperature air instead of cold air,Airflow Restriction or Low Cooling Efficiency
+washing_machine,Samsung,1–2 years,Industrial / Dusty,Just today,UE-02,Violent shaking or banging during spin cycle,Drum Suspension or Imbalance Fault
+air_conditioner,LG,1–2 years,Indoor – Normal,More than a month ago,CMP-01,Outdoor unit does not turn on|Blowing room-temperature air instead of cold air|Overheating during normal use,Compressor Failure or Capacitor Fault
+desktop,iBuyPower,2–4 years,High Temperature,Just today,,Device does not power on,Power Supply Unit (PSU) Failure
+laptop,HP,2–4 years,High Temperature,Just today,DISP-02,Screen flickering or lines|Blank screen while powered on,Display Panel or Inverter Issue
+smartphone,OnePlus,< 1 year,High Humidity,Within the last week,BAT-01,Unexpected shutdowns|Rapid battery drain|Not charging or slow charging,Battery Degradation
+desktop,HP,< 1 year,Commercial / Constant Use,Just today,,Device does not power on|Unexpected shutdowns,Power Supply Unit (PSU) Failure
+smartphone,Apple,1–2 years,High Temperature,Just today,BAT-01,Rapid battery drain,Battery Degradation
+smartphone,Motorola,2–4 years,High Temperature,Just today,,Not charging or slow charging|Device does not power on,Charging Port or PMIC Failure
+desktop,Lenovo,< 1 year,Commercial / Constant Use,Just today,VGA-01,Screen flickering or lines|Frequent freezing or lag|Overheating during normal use,GPU Artifacting or Driver Crash
+refrigerator,Samsung,2–4 years,High Humidity,Within the last week,SEAL-02,Continuous compressor running without cooling|Freezer frosting excessively,Cooling Performance or Seal Fault
+smartphone,OPPO,< 1 year,High Humidity,Within the last week,PWR-02,Device does not power on,Charging Port or PMIC Failure
+washing_machine,IFB,2–4 years,Commercial / Constant Use,Within the last week,5E,Loud grinding sound during pump operation|Water not draining|Error code displayed at end of wash cycle,Drainage Obstruction or Pump Fault
+television,Sony,2–4 years,Indoor – Normal,Just today,MAIN-05,Screen flickering or lines,Mainboard or T-Con Board Fault
+desktop,HP,4+ years,Industrial / Dusty,Just today,,Unexpected shutdowns,Power Supply Unit (PSU) Failure
+desktop,Lenovo,< 1 year,High Humidity,Within the last week,,Frequent freezing or lag|Screen flickering or lines,GPU Artifacting or Driver Crash
+air_conditioner,Daikin,4+ years,Commercial / Constant Use,1–4 weeks ago,,Weak airflow from vents|Ice buildup on refrigerant lines|Blowing room-temperature air instead of cold air,Airflow Restriction or Low Cooling Efficiency
+laptop,ASUS,4+ years,High Humidity,Just today,,Frequent freezing or lag,Storage Drive Failure or Corruption
+desktop,Dell,< 1 year,Indoor – Normal,Within the last week,,Device does not power on,Power Supply Unit (PSU) Failure
+air_conditioner,Mitsubishi,1–2 years,Industrial / Dusty,Within the last week,ERR-12,Burning smell from indoor or outdoor unit,Electrical Overload or Insulation Fault
+air_conditioner,Mitsubishi,< 1 year,High Temperature,More than a month ago,E-04,Blowing room-temperature air instead of cold air,Airflow Restriction or Low Cooling Efficiency
+smartphone,OPPO,4+ years,Indoor – Normal,More than a month ago,DISP-10,Blank screen while powered on|Screen flickering or lines|Unresponsive or ghost touch|Abnormal brightness or discoloration,Display Panel or Flex Cable Fault
+television,Samsung,< 1 year,High Temperature,1–4 weeks ago,MAIN-05,Stuck in boot loop,Mainboard or T-Con Board Fault
+air_conditioner,Voltas,2–4 years,Indoor – Normal,1–4 weeks ago,ERR-05,Ice buildup on refrigerant lines|Weak airflow from vents,Airflow Restriction or Low Cooling Efficiency
+air_conditioner,Mitsubishi,1–2 years,Commercial / Constant Use,Within the last week,,Burning smell from indoor or outdoor unit,Electrical Overload or Insulation Fault
+television,TCL,4+ years,High Humidity,More than a month ago,BL-01,Blank screen while powered on,Backlight Inverter or LED Strip Failure
+smartphone,Google,2–4 years,High Humidity,Just today,THM-05,Frequent freezing or lag,Thermal Throttling or Mainboard Overheating
+laptop,Dell,1–2 years,Industrial / Dusty,1–4 weeks ago,FAN-01,Overheating and thermal throttling|Loud fan or fan not spinning,Thermal Management or Cooling Fault
+desktop,Custom PC,1–2 years,Industrial / Dusty,1–4 weeks ago,,Unexpected shutdowns,Power Supply Unit (PSU) Failure
+refrigerator,Samsung,2–4 years,Industrial / Dusty,1–4 weeks ago,,Fresh food compartment warm|Water leaking underneath|Heavy ice buildup on evaporator coils|Overheating during normal use,Defrost System Failure
+desktop,HP,1–2 years,Indoor – Normal,Within the last week,PSU-01,Device does not power on,Power Supply Unit (PSU) Failure
+refrigerator,LG,< 1 year,Commercial / Constant Use,1–4 weeks ago,REF-01,Continuous compressor running without cooling,Cooling Performance or Seal Fault
+air_conditioner,LG,4+ years,Industrial / Dusty,Just today,,Weak airflow from vents,Airflow Restriction or Low Cooling Efficiency
+air_conditioner,Mitsubishi,4+ years,Commercial / Constant Use,More than a month ago,CMP-01,Outdoor unit does not turn on,Compressor Failure or Capacitor Fault
+refrigerator,Bosch,1–2 years,Indoor – Normal,Just today,E-22,Fresh food compartment warm,Cooling Performance or Seal Fault
+laptop,Lenovo,2–4 years,Indoor – Normal,Within the last week,BOOT-01,Frequent freezing or lag,Storage Drive Failure or Corruption
+washing_machine,Whirlpool,2–4 years,Industrial / Dusty,Within the last week,DRN-01,Error code displayed at end of wash cycle|Water not draining,Drainage Obstruction or Pump Fault
+air_conditioner,Mitsubishi,4+ years,Commercial / Constant Use,More than a month ago,E-01,Burning smell from indoor or outdoor unit|Trips circuit breaker immediately|Unexpected shutdowns,Electrical Overload or Insulation Fault
+air_conditioner,Samsung,1–2 years,Industrial / Dusty,Just today,E-04,Ice buildup on refrigerant lines|Blowing room-temperature air instead of cold air,Airflow Restriction or Low Cooling Efficiency
+desktop,HP,< 1 year,Commercial / Constant Use,1–4 weeks ago,,Device does not power on,Power Supply Unit (PSU) Failure
+television,Sony,2–4 years,Industrial / Dusty,Just today,,Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+washing_machine,IFB,4+ years,Commercial / Constant Use,More than a month ago,,Loud grinding sound during pump operation,Drainage Obstruction or Pump Fault
+smartphone,Xiaomi,2–4 years,High Temperature,1–4 weeks ago,BAT-01,Rapid battery drain,Battery Degradation
+air_conditioner,Voltas,4+ years,Indoor – Normal,Just today,ICE-01,Weak airflow from vents,Airflow Restriction or Low Cooling Efficiency
+refrigerator,Samsung,1–2 years,High Temperature,Within the last week,DEF-01,Water leaking underneath|Fresh food compartment warm|Heavy ice buildup on evaporator coils,Defrost System Failure
+air_conditioner,Daikin,1–2 years,High Temperature,1–4 weeks ago,,Blowing room-temperature air instead of cold air|Outdoor unit does not turn on,Compressor Failure or Capacitor Fault
+smartphone,Apple,2–4 years,High Temperature,Just today,CHG-01,Device does not power on,Charging Port or PMIC Failure
+laptop,Acer,< 1 year,Indoor – Normal,1–4 weeks ago,BOOT-01,Stuck in boot loop|Frequent freezing or lag,Storage Drive Failure or Corruption
+laptop,ASUS,2–4 years,Industrial / Dusty,More than a month ago,EDP-01,Screen flickering or lines|Blank screen while powered on,Display Panel or Inverter Issue
+laptop,Dell,< 1 year,Indoor – Normal,1–4 weeks ago,DISK-99,Stuck in boot loop|Frequent freezing or lag,Storage Drive Failure or Corruption
+laptop,Lenovo,4+ years,Indoor – Normal,1–4 weeks ago,THM-02,Sudden shutdown under heavy load|Loud fan or fan not spinning|Overheating and thermal throttling,Thermal Management or Cooling Fault
+smartphone,Motorola,< 1 year,Industrial / Dusty,Just today,,Stuck in boot loop|Frequent freezing or lag|Overheating during normal use,Thermal Throttling or Mainboard Overheating
+air_conditioner,Voltas,1–2 years,Indoor – Normal,1–4 weeks ago,CMP-01,Blowing room-temperature air instead of cold air|Outdoor unit does not turn on|Frequent freezing or lag,Compressor Failure or Capacitor Fault
+smartphone,Apple,< 1 year,Commercial / Constant Use,Within the last week,DSP-04,Screen flickering or lines,Display Panel or Flex Cable Fault
+smartphone,Apple,4+ years,Commercial / Constant Use,More than a month ago,DISP-10,Unresponsive or ghost touch|Screen flickering or lines|Abnormal brightness or discoloration,Display Panel or Flex Cable Fault
+laptop,Acer,2–4 years,High Temperature,1–4 weeks ago,BOOT-01,Stuck in boot loop|Frequent freezing or lag,Storage Drive Failure or Corruption
+smartphone,OPPO,< 1 year,Industrial / Dusty,Within the last week,SYS-02,Stuck in boot loop|Frequent freezing or lag|Overheating during normal use,Thermal Throttling or Mainboard Overheating
+television,Sony,< 1 year,Industrial / Dusty,Within the last week,,Screen flickering or lines,Mainboard or T-Con Board Fault
+air_conditioner,Carrier,< 1 year,Indoor – Normal,Within the last week,E-99,Burning smell from indoor or outdoor unit|Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+laptop,Acer,4+ years,Indoor – Normal,Within the last week,DISP-02,Screen flickering or lines|Frequent freezing or lag,Display Panel or Inverter Issue
+refrigerator,Bosch,2–4 years,High Humidity,More than a month ago,REF-01,Fresh food compartment warm,Cooling Performance or Seal Fault
+smartphone,Apple,4+ years,Commercial / Constant Use,More than a month ago,,Device does not power on,Swollen Battery Hazard
+television,Hisense,< 1 year,Indoor – Normal,Within the last week,,Abnormal brightness or discoloration|Blank screen while powered on,Backlight Inverter or LED Strip Failure
+laptop,Acer,4+ years,Commercial / Constant Use,More than a month ago,PWR-11,Rapid battery drain,Battery Degradation or Failure
+laptop,Apple,4+ years,Commercial / Constant Use,Just today,FAN-01,Overheating and thermal throttling|Loud fan or fan not spinning,Thermal Management or Cooling Fault
+desktop,Dell,< 1 year,Commercial / Constant Use,More than a month ago,VGA-01,Frequent freezing or lag|Screen flickering or lines,GPU Artifacting or Driver Crash
+desktop,iBuyPower,< 1 year,High Humidity,Within the last week,PWR-01,Unexpected shutdowns,Power Supply Unit (PSU) Failure
+smartphone,OPPO,2–4 years,Industrial / Dusty,More than a month ago,BAT-90,Battery swelling or back cover lift|Overheating during normal use|Device does not power on,Swollen Battery Hazard
+washing_machine,LG,2–4 years,Industrial / Dusty,Within the last week,UB-01,Drum fails to spin|Violent shaking or banging during spin cycle|Frequent freezing or lag,Drum Suspension or Imbalance Fault
+television,TCL,1–2 years,High Humidity,More than a month ago,LED-02,Blank screen while powered on|Abnormal brightness or discoloration|Overheating during normal use,Backlight Inverter or LED Strip Failure
+air_conditioner,Voltas,4+ years,Industrial / Dusty,More than a month ago,,Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+refrigerator,Whirlpool,4+ years,Indoor – Normal,More than a month ago,SEAL-02,Freezer frosting excessively|Continuous compressor running without cooling|Fresh food compartment warm,Cooling Performance or Seal Fault
+laptop,Lenovo,< 1 year,Industrial / Dusty,1–4 weeks ago,DISP-02,Blank screen while powered on,Display Panel or Inverter Issue
+smartphone,Motorola,1–2 years,High Humidity,Just today,,Device does not power on|Not charging or slow charging|Unexpected shutdowns,Charging Port or PMIC Failure
+air_conditioner,Samsung,< 1 year,High Temperature,Within the last week,ERR-12,Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+television,TCL,4+ years,High Temperature,Within the last week,MAIN-05,Screen flickering or lines|Stuck in boot loop,Mainboard or T-Con Board Fault
+air_conditioner,LG,2–4 years,High Temperature,More than a month ago,,Trips circuit breaker immediately|Burning smell from indoor or outdoor unit,Electrical Overload or Insulation Fault
+air_conditioner,Voltas,2–4 years,Industrial / Dusty,More than a month ago,,Blowing room-temperature air instead of cold air|Weak airflow from vents|Ice buildup on refrigerant lines,Airflow Restriction or Low Cooling Efficiency
+air_conditioner,Carrier,1–2 years,Commercial / Constant Use,Within the last week,CAP-02,Blowing room-temperature air instead of cold air|Outdoor unit does not turn on,Compressor Failure or Capacitor Fault
+air_conditioner,Carrier,4+ years,Commercial / Constant Use,More than a month ago,CAP-02,Blowing room-temperature air instead of cold air,Compressor Failure or Capacitor Fault
+air_conditioner,LG,4+ years,Industrial / Dusty,Just today,CMP-01,Blowing room-temperature air instead of cold air|Outdoor unit does not turn on,Compressor Failure or Capacitor Fault
+air_conditioner,Samsung,< 1 year,Indoor – Normal,Within the last week,,Ice buildup on refrigerant lines|Weak airflow from vents|Blowing room-temperature air instead of cold air,Airflow Restriction or Low Cooling Efficiency
+television,TCL,1–2 years,High Temperature,1–4 weeks ago,TCON-01,Screen flickering or lines,Mainboard or T-Con Board Fault
+air_conditioner,Samsung,< 1 year,High Temperature,1–4 weeks ago,CMP-01,Blowing room-temperature air instead of cold air|Outdoor unit does not turn on|Frequent freezing or lag,Compressor Failure or Capacitor Fault
+smartphone,Motorola,1–2 years,High Humidity,Within the last week,DSP-01,Abnormal brightness or discoloration|Screen flickering or lines,Display Panel or Flex Cable Fault
+smartphone,Samsung,4+ years,Indoor – Normal,Within the last week,,Not charging or slow charging,Charging Port or PMIC Failure
+laptop,HP,2–4 years,High Humidity,Within the last week,,Blank screen while powered on,Display Panel or Inverter Issue
+television,LG,1–2 years,Industrial / Dusty,Just today,,Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+washing_machine,Samsung,2–4 years,Commercial / Constant Use,Just today,UB-01,Violent shaking or banging during spin cycle|Drum fails to spin,Drum Suspension or Imbalance Fault
+desktop,Lenovo,2–4 years,High Humidity,Within the last week,VGA-01,Screen flickering or lines|Frequent freezing or lag,GPU Artifacting or Driver Crash
+laptop,Lenovo,< 1 year,Commercial / Constant Use,Just today,,Overheating and thermal throttling|Loud fan or fan not spinning|Sudden shutdown under heavy load,Thermal Management or Cooling Fault
+laptop,Dell,2–4 years,Indoor – Normal,1–4 weeks ago,FAN-01,Overheating and thermal throttling|Sudden shutdown under heavy load,Thermal Management or Cooling Fault
+air_conditioner,Samsung,< 1 year,Indoor – Normal,Just today,,Ice buildup on refrigerant lines|Weak airflow from vents|Blowing room-temperature air instead of cold air,Airflow Restriction or Low Cooling Efficiency
+washing_machine,Whirlpool,< 1 year,Industrial / Dusty,Within the last week,5E,Loud grinding sound during pump operation|Error code displayed at end of wash cycle|Unexpected shutdowns,Drainage Obstruction or Pump Fault
+air_conditioner,Mitsubishi,< 1 year,High Humidity,Just today,,Trips circuit breaker immediately|Burning smell from indoor or outdoor unit,Electrical Overload or Insulation Fault
+air_conditioner,Carrier,4+ years,High Humidity,1–4 weeks ago,CAP-02,Outdoor unit does not turn on,Compressor Failure or Capacitor Fault
+smartphone,OPPO,1–2 years,High Humidity,More than a month ago,BAT-05,Not charging or slow charging|Overheating during normal use|Unexpected shutdowns|Rapid battery drain,Battery Degradation
+desktop,iBuyPower,2–4 years,High Temperature,1–4 weeks ago,PWR-01,Device does not power on,Power Supply Unit (PSU) Failure
+smartphone,OPPO,2–4 years,Indoor – Normal,Within the last week,DISP-10,Abnormal brightness or discoloration|Unresponsive or ghost touch,Display Panel or Flex Cable Fault
+smartphone,Samsung,2–4 years,Indoor – Normal,Within the last week,BAT-05,Rapid battery drain,Battery Degradation
+laptop,Lenovo,4+ years,Indoor – Normal,1–4 weeks ago,,Overheating and thermal throttling|Sudden shutdown under heavy load|Not charging or slow charging,Thermal Management or Cooling Fault
+air_conditioner,Voltas,< 1 year,Industrial / Dusty,Just today,CAP-02,Outdoor unit does not turn on,Compressor Failure or Capacitor Fault
+smartphone,OnePlus,2–4 years,Indoor – Normal,Just today,,Unexpected shutdowns|Not charging or slow charging|Frequent freezing or lag,Battery Degradation
+smartphone,Motorola,1–2 years,High Humidity,Just today,DSP-01,Blank screen while powered on|Screen flickering or lines,Display Panel or Flex Cable Fault
+smartphone,OnePlus,4+ years,High Humidity,1–4 weeks ago,,Device does not power on|Not charging or slow charging,Charging Port or PMIC Failure
+television,LG,1–2 years,Indoor – Normal,More than a month ago,MAIN-05,Stuck in boot loop,Mainboard or T-Con Board Fault
+smartphone,Xiaomi,< 1 year,Commercial / Constant Use,More than a month ago,USB-03,Device does not power on,Charging Port or PMIC Failure
+television,Sony,1–2 years,Industrial / Dusty,Within the last week,,Screen flickering or lines,Mainboard or T-Con Board Fault
+refrigerator,Haier,1–2 years,High Humidity,More than a month ago,F-04,Fresh food compartment warm|Frequent freezing or lag,Defrost System Failure
+air_conditioner,Carrier,4+ years,High Temperature,More than a month ago,E-99,Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+air_conditioner,Daikin,< 1 year,High Humidity,1–4 weeks ago,ERR-05,Blowing room-temperature air instead of cold air,Airflow Restriction or Low Cooling Efficiency
+air_conditioner,Mitsubishi,1–2 years,Indoor – Normal,Just today,ERR-05,Ice buildup on refrigerant lines|Weak airflow from vents|Blowing room-temperature air instead of cold air,Airflow Restriction or Low Cooling Efficiency
+smartphone,OPPO,2–4 years,Indoor – Normal,More than a month ago,THM-01,Overheating during normal use|Frequent freezing or lag|Not charging or slow charging,Thermal Throttling or Mainboard Overheating
+air_conditioner,Samsung,4+ years,Industrial / Dusty,Just today,,Trips circuit breaker immediately|Burning smell from indoor or outdoor unit,Electrical Overload or Insulation Fault
+desktop,iBuyPower,2–4 years,High Temperature,Within the last week,PSU-01,Unexpected shutdowns|Overheating during normal use,Power Supply Unit (PSU) Failure
+smartphone,Xiaomi,2–4 years,Industrial / Dusty,More than a month ago,THM-01,Stuck in boot loop|Frequent freezing or lag|Overheating during normal use,Thermal Throttling or Mainboard Overheating
+smartphone,Samsung,2–4 years,High Humidity,1–4 weeks ago,BAT-01,Not charging or slow charging|Rapid battery drain|Overheating during normal use,Battery Degradation
+washing_machine,Samsung,1–2 years,Industrial / Dusty,1–4 weeks ago,UNB-01,Drum fails to spin|Violent shaking or banging during spin cycle|Frequent freezing or lag,Drum Suspension or Imbalance Fault
+air_conditioner,Mitsubishi,2–4 years,High Humidity,1–4 weeks ago,ICE-01,Blowing room-temperature air instead of cold air|Weak airflow from vents|Ice buildup on refrigerant lines,Airflow Restriction or Low Cooling Efficiency
+television,Hisense,4+ years,Indoor – Normal,1–4 weeks ago,,Blank screen while powered on,Backlight Inverter or LED Strip Failure
+laptop,Lenovo,2–4 years,Commercial / Constant Use,Just today,EDP-01,Screen flickering or lines|Blank screen while powered on,Display Panel or Inverter Issue
+television,Sony,1–2 years,High Temperature,1–4 weeks ago,MAIN-05,Stuck in boot loop|Screen flickering or lines,Mainboard or T-Con Board Fault
+laptop,Apple,1–2 years,Commercial / Constant Use,More than a month ago,EDP-01,Screen flickering or lines|Blank screen while powered on,Display Panel or Inverter Issue
+laptop,Apple,1–2 years,High Humidity,More than a month ago,BOOT-01,Frequent freezing or lag|Stuck in boot loop,Storage Drive Failure or Corruption
+air_conditioner,Samsung,< 1 year,High Humidity,Just today,,Blowing room-temperature air instead of cold air|Frequent freezing or lag,Compressor Failure or Capacitor Fault
+television,LG,< 1 year,High Temperature,More than a month ago,BL-01,Blank screen while powered on|Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+television,TCL,1–2 years,Industrial / Dusty,Just today,,Screen flickering or lines,Mainboard or T-Con Board Fault
+smartphone,Apple,4+ years,Commercial / Constant Use,Just today,THM-01,Frequent freezing or lag|Overheating during normal use|Stuck in boot loop,Thermal Throttling or Mainboard Overheating
+television,Samsung,2–4 years,High Temperature,Within the last week,TCON-01,Stuck in boot loop,Mainboard or T-Con Board Fault
+washing_machine,IFB,< 1 year,Industrial / Dusty,Just today,,Violent shaking or banging during spin cycle|Unexpected shutdowns,Drum Suspension or Imbalance Fault
+television,Sony,1–2 years,High Humidity,Just today,,Blank screen while powered on|Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+smartphone,OPPO,< 1 year,High Temperature,More than a month ago,BAT-05,Overheating during normal use|Unexpected shutdowns,Battery Degradation
+refrigerator,LG,1–2 years,Industrial / Dusty,Just today,DEF-02,Heavy ice buildup on evaporator coils|Water leaking underneath|Fresh food compartment warm,Defrost System Failure
+air_conditioner,Voltas,1–2 years,Commercial / Constant Use,Within the last week,E-01,Burning smell from indoor or outdoor unit|Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+laptop,Dell,1–2 years,Commercial / Constant Use,More than a month ago,DISK-99,Stuck in boot loop,Storage Drive Failure or Corruption
+television,LG,2–4 years,Indoor – Normal,1–4 weeks ago,,Screen flickering or lines,Mainboard or T-Con Board Fault
+laptop,Dell,< 1 year,Indoor – Normal,More than a month ago,BOOT-01,Stuck in boot loop,Storage Drive Failure or Corruption
+laptop,Acer,< 1 year,Commercial / Constant Use,Just today,DISP-02,Screen flickering or lines|Frequent freezing or lag,Display Panel or Inverter Issue
+smartphone,Google,< 1 year,Commercial / Constant Use,Within the last week,BAT-02,Unexpected shutdowns|Rapid battery drain|Not charging or slow charging|Overheating during normal use,Battery Degradation
+smartphone,OPPO,4+ years,Indoor – Normal,1–4 weeks ago,SYS-02,Overheating during normal use|Frequent freezing or lag|Stuck in boot loop,Thermal Throttling or Mainboard Overheating
+refrigerator,LG,< 1 year,Industrial / Dusty,Just today,F-04,Heavy ice buildup on evaporator coils,Defrost System Failure
+air_conditioner,Carrier,4+ years,High Humidity,Within the last week,ERR-05,Ice buildup on refrigerant lines,Airflow Restriction or Low Cooling Efficiency
+smartphone,Xiaomi,< 1 year,Commercial / Constant Use,Within the last week,,Rapid battery drain|Overheating during normal use|Unexpected shutdowns|Not charging or slow charging,Battery Degradation
+smartphone,Samsung,4+ years,High Humidity,Within the last week,CHG-01,Device does not power on|Not charging or slow charging,Charging Port or PMIC Failure
+desktop,Lenovo,4+ years,High Humidity,Just today,,Device does not power on,Power Supply Unit (PSU) Failure
+television,Sony,2–4 years,High Temperature,1–4 weeks ago,TCON-01,Stuck in boot loop|Screen flickering or lines|Frequent freezing or lag,Mainboard or T-Con Board Fault
+desktop,iBuyPower,4+ years,Industrial / Dusty,Just today,VGA-01,Frequent freezing or lag,GPU Artifacting or Driver Crash
+smartphone,Google,1–2 years,Industrial / Dusty,1–4 weeks ago,DISP-10,Unresponsive or ghost touch|Abnormal brightness or discoloration|Screen flickering or lines|Blank screen while powered on,Display Panel or Flex Cable Fault
+desktop,Dell,1–2 years,Commercial / Constant Use,Within the last week,GPU-43,Frequent freezing or lag,GPU Artifacting or Driver Crash
+television,Hisense,1–2 years,Commercial / Constant Use,Within the last week,TCON-01,Stuck in boot loop,Mainboard or T-Con Board Fault
+smartphone,Motorola,2–4 years,High Humidity,Just today,SYS-02,Frequent freezing or lag|Not charging or slow charging,Thermal Throttling or Mainboard Overheating
+laptop,HP,1–2 years,High Temperature,More than a month ago,DISP-02,Screen flickering or lines|Blank screen while powered on,Display Panel or Inverter Issue
+desktop,Lenovo,2–4 years,Commercial / Constant Use,Just today,PWR-01,Device does not power on|Unexpected shutdowns,Power Supply Unit (PSU) Failure
+desktop,HP,2–4 years,Commercial / Constant Use,Just today,VGA-01,Frequent freezing or lag,GPU Artifacting or Driver Crash
+refrigerator,Haier,4+ years,High Temperature,Just today,E-22,Fresh food compartment warm,Cooling Performance or Seal Fault
+laptop,Acer,4+ years,High Temperature,Within the last week,TEMP-90,Sudden shutdown under heavy load|Loud fan or fan not spinning|Overheating and thermal throttling,Thermal Management or Cooling Fault
+laptop,Acer,4+ years,Indoor – Normal,More than a month ago,TEMP-90,Loud fan or fan not spinning|Unexpected shutdowns,Thermal Management or Cooling Fault
+laptop,Acer,2–4 years,High Humidity,Just today,,Blank screen while powered on|Screen flickering or lines,Display Panel or Inverter Issue
+smartphone,Motorola,2–4 years,Industrial / Dusty,More than a month ago,,Battery swelling or back cover lift|Device does not power on|Overheating during normal use|Not charging or slow charging,Swollen Battery Hazard
+desktop,Dell,2–4 years,High Humidity,More than a month ago,,Screen flickering or lines,GPU Artifacting or Driver Crash
+smartphone,Samsung,2–4 years,High Humidity,Just today,THM-01,Overheating during normal use|Frequent freezing or lag|Stuck in boot loop,Thermal Throttling or Mainboard Overheating
+laptop,HP,4+ years,Indoor – Normal,1–4 weeks ago,THM-02,Overheating and thermal throttling,Thermal Management or Cooling Fault
+laptop,Acer,1–2 years,High Humidity,Just today,THM-02,Sudden shutdown under heavy load|Overheating and thermal throttling|Loud fan or fan not spinning,Thermal Management or Cooling Fault
+air_conditioner,Voltas,2–4 years,High Temperature,More than a month ago,CAP-02,Blowing room-temperature air instead of cold air|Outdoor unit does not turn on,Compressor Failure or Capacitor Fault
+laptop,HP,2–4 years,High Humidity,Just today,TEMP-90,Overheating and thermal throttling|Sudden shutdown under heavy load|Loud fan or fan not spinning,Thermal Management or Cooling Fault
+smartphone,Samsung,2–4 years,Commercial / Constant Use,1–4 weeks ago,,Battery swelling or back cover lift|Device does not power on,Swollen Battery Hazard
+television,Sony,< 1 year,Indoor – Normal,More than a month ago,MAIN-05,Stuck in boot loop,Mainboard or T-Con Board Fault
+refrigerator,Samsung,2–4 years,High Humidity,More than a month ago,REF-01,Freezer frosting excessively,Cooling Performance or Seal Fault
+laptop,HP,4+ years,Indoor – Normal,1–4 weeks ago,THM-02,Loud fan or fan not spinning|Overheating and thermal throttling,Thermal Management or Cooling Fault
+refrigerator,Haier,2–4 years,High Humidity,Within the last week,F-04,Water leaking underneath|Fresh food compartment warm|Not charging or slow charging,Defrost System Failure
+smartphone,Google,4+ years,Industrial / Dusty,1–4 weeks ago,,Blank screen while powered on|Abnormal brightness or discoloration|Screen flickering or lines,Display Panel or Flex Cable Fault
+refrigerator,LG,4+ years,High Temperature,Just today,REF-01,Continuous compressor running without cooling|Freezer frosting excessively|Fresh food compartment warm,Cooling Performance or Seal Fault
+washing_machine,LG,< 1 year,Indoor – Normal,Just today,UE-02,Violent shaking or banging during spin cycle|Drum fails to spin|Frequent freezing or lag,Drum Suspension or Imbalance Fault
+smartphone,Xiaomi,2–4 years,Indoor – Normal,More than a month ago,USB-03,Not charging or slow charging|Device does not power on|Frequent freezing or lag,Charging Port or PMIC Failure
+smartphone,Google,4+ years,High Humidity,1–4 weeks ago,CHG-01,Not charging or slow charging,Charging Port or PMIC Failure
+smartphone,Apple,4+ years,High Humidity,More than a month ago,,Overheating during normal use|Stuck in boot loop|Frequent freezing or lag,Thermal Throttling or Mainboard Overheating
+laptop,Acer,4+ years,Indoor – Normal,Just today,,Loud fan or fan not spinning|Sudden shutdown under heavy load,Thermal Management or Cooling Fault
+desktop,Lenovo,4+ years,High Temperature,1–4 weeks ago,GPU-43,Screen flickering or lines,GPU Artifacting or Driver Crash
+laptop,Dell,< 1 year,Commercial / Constant Use,More than a month ago,BOOT-01,Frequent freezing or lag,Storage Drive Failure or Corruption
+television,TCL,1–2 years,Indoor – Normal,Within the last week,LED-02,Blank screen while powered on,Backlight Inverter or LED Strip Failure
+washing_machine,Whirlpool,< 1 year,Commercial / Constant Use,Within the last week,UB-01,Drum fails to spin|Violent shaking or banging during spin cycle,Drum Suspension or Imbalance Fault
+laptop,Lenovo,2–4 years,High Temperature,More than a month ago,,Plugged in but not charging|Unexpected shutdowns|Rapid battery drain,Battery Degradation or Failure
+washing_machine,LG,4+ years,High Temperature,Within the last week,UE-02,Drum fails to spin|Violent shaking or banging during spin cycle,Drum Suspension or Imbalance Fault
+laptop,Dell,2–4 years,High Humidity,More than a month ago,BAT-03,Rapid battery drain|Plugged in but not charging|Unexpected shutdowns,Battery Degradation or Failure
+smartphone,Samsung,< 1 year,High Humidity,Just today,BAT-01,Not charging or slow charging|Overheating during normal use,Battery Degradation
+washing_machine,Bosch,4+ years,Industrial / Dusty,More than a month ago,,Violent shaking or banging during spin cycle|Drum fails to spin,Drum Suspension or Imbalance Fault
+air_conditioner,Daikin,< 1 year,Indoor – Normal,Within the last week,CMP-01,Outdoor unit does not turn on,Compressor Failure or Capacitor Fault
+washing_machine,LG,2–4 years,High Humidity,1–4 weeks ago,5E,Water not draining|Loud grinding sound during pump operation,Drainage Obstruction or Pump Fault
+refrigerator,Haier,1–2 years,High Humidity,Just today,,Water leaking underneath|Fresh food compartment warm|Heavy ice buildup on evaporator coils,Defrost System Failure
+smartphone,Apple,1–2 years,High Humidity,1–4 weeks ago,SYS-02,Overheating during normal use,Thermal Throttling or Mainboard Overheating
+laptop,Apple,1–2 years,Industrial / Dusty,Just today,,Plugged in but not charging|Unexpected shutdowns|Rapid battery drain|Overheating during normal use,Battery Degradation or Failure
+smartphone,Google,< 1 year,High Humidity,Within the last week,,Device does not power on,Charging Port or PMIC Failure
+desktop,HP,1–2 years,High Temperature,Within the last week,GPU-43,Screen flickering or lines,GPU Artifacting or Driver Crash
+smartphone,OnePlus,1–2 years,Industrial / Dusty,Within the last week,,Device does not power on|Not charging or slow charging,Charging Port or PMIC Failure
+television,Sony,< 1 year,Commercial / Constant Use,More than a month ago,,Screen flickering or lines,Mainboard or T-Con Board Fault
+washing_machine,IFB,< 1 year,Commercial / Constant Use,More than a month ago,UE-02,Violent shaking or banging during spin cycle,Drum Suspension or Imbalance Fault
+smartphone,Apple,2–4 years,High Temperature,Within the last week,THM-05,Stuck in boot loop|Overheating during normal use,Thermal Throttling or Mainboard Overheating
+desktop,HP,< 1 year,High Temperature,Within the last week,VGA-01,Screen flickering or lines,GPU Artifacting or Driver Crash
+smartphone,OnePlus,1–2 years,High Temperature,Just today,BAT-90,Device does not power on|Battery swelling or back cover lift|Unexpected shutdowns,Swollen Battery Hazard
+air_conditioner,LG,1–2 years,Indoor – Normal,1–4 weeks ago,ICE-01,Ice buildup on refrigerant lines|Blowing room-temperature air instead of cold air|Weak airflow from vents|Unexpected shutdowns,Airflow Restriction or Low Cooling Efficiency
+washing_machine,LG,4+ years,Industrial / Dusty,More than a month ago,OE-01,Water not draining|Error code displayed at end of wash cycle|Loud grinding sound during pump operation,Drainage Obstruction or Pump Fault
+laptop,Lenovo,< 1 year,High Humidity,Just today,TEMP-90,Loud fan or fan not spinning|Overheating and thermal throttling,Thermal Management or Cooling Fault
+washing_machine,Bosch,4+ years,High Humidity,1–4 weeks ago,,Drum fails to spin,Drum Suspension or Imbalance Fault
+air_conditioner,Mitsubishi,1–2 years,High Humidity,Just today,ERR-12,Trips circuit breaker immediately|Burning smell from indoor or outdoor unit,Electrical Overload or Insulation Fault
+air_conditioner,Samsung,1–2 years,Indoor – Normal,More than a month ago,ICE-01,Blowing room-temperature air instead of cold air|Ice buildup on refrigerant lines|Weak airflow from vents,Airflow Restriction or Low Cooling Efficiency
+refrigerator,LG,< 1 year,Industrial / Dusty,1–4 weeks ago,DEF-02,Water leaking underneath|Heavy ice buildup on evaporator coils|Fresh food compartment warm,Defrost System Failure
+washing_machine,IFB,1–2 years,High Temperature,1–4 weeks ago,,Violent shaking or banging during spin cycle|Drum fails to spin,Drum Suspension or Imbalance Fault
+air_conditioner,Mitsubishi,< 1 year,Commercial / Constant Use,Just today,E-99,Trips circuit breaker immediately|Burning smell from indoor or outdoor unit,Electrical Overload or Insulation Fault
+laptop,Apple,< 1 year,Industrial / Dusty,1–4 weeks ago,,Unexpected shutdowns|Plugged in but not charging|Rapid battery drain,Battery Degradation or Failure
+smartphone,OnePlus,4+ years,Industrial / Dusty,Within the last week,BAT-99,Device does not power on|Battery swelling or back cover lift,Swollen Battery Hazard
+desktop,HP,4+ years,Industrial / Dusty,Within the last week,GPU-43,Frequent freezing or lag|Screen flickering or lines,GPU Artifacting or Driver Crash
+refrigerator,Samsung,2–4 years,Industrial / Dusty,More than a month ago,F-04,Water leaking underneath,Defrost System Failure
+smartphone,OnePlus,2–4 years,High Humidity,Just today,BAT-90,Battery swelling or back cover lift|Unexpected shutdowns,Swollen Battery Hazard
+refrigerator,Bosch,1–2 years,Commercial / Constant Use,Just today,,Water leaking underneath|Overheating during normal use,Defrost System Failure
+television,Samsung,< 1 year,Commercial / Constant Use,More than a month ago,,Abnormal brightness or discoloration,Backlight Inverter or LED Strip Failure
+desktop,Dell,< 1 year,Industrial / Dusty,1–4 weeks ago,GPU-43,Screen flickering or lines,GPU Artifacting or Driver Crash
+laptop,HP,1–2 years,Indoor – Normal,1–4 weeks ago,,Frequent freezing or lag|Stuck in boot loop,Storage Drive Failure or Corruption
+smartphone,Xiaomi,1–2 years,High Humidity,Just today,,Overheating during normal use|Device does not power on|Battery swelling or back cover lift,Swollen Battery Hazard
+washing_machine,IFB,1–2 years,High Temperature,Within the last week,UE-02,Drum fails to spin,Drum Suspension or Imbalance Fault
+washing_machine,IFB,< 1 year,Commercial / Constant Use,Just today,UB-01,Violent shaking or banging during spin cycle|Drum fails to spin,Drum Suspension or Imbalance Fault
+smartphone,OnePlus,2–4 years,High Humidity,More than a month ago,USB-03,Device does not power on|Overheating during normal use,Charging Port or PMIC Failure
+desktop,HP,4+ years,Industrial / Dusty,1–4 weeks ago,,Frequent freezing or lag,GPU Artifacting or Driver Crash
+smartphone,Apple,1–2 years,Industrial / Dusty,1–4 weeks ago,BAT-90,Battery swelling or back cover lift|Overheating during normal use|Device does not power on,Swollen Battery Hazard
+desktop,Lenovo,2–4 years,Indoor – Normal,More than a month ago,VGA-01,Frequent freezing or lag,GPU Artifacting or Driver Crash
+television,TCL,2–4 years,Indoor – Normal,Within the last week,LED-02,Blank screen while powered on,Backlight Inverter or LED Strip Failure
+refrigerator,Haier,1–2 years,High Humidity,Just today,DEF-02,Fresh food compartment warm,Defrost System Failure
+air_conditioner,Daikin,1–2 years,Industrial / Dusty,More than a month ago,E-04,Ice buildup on refrigerant lines|Weak airflow from vents|Blowing room-temperature air instead of cold air,Airflow Restriction or Low Cooling Efficiency
+refrigerator,Bosch,4+ years,Commercial / Constant Use,1–4 weeks ago,REF-01,Freezer frosting excessively,Cooling Performance or Seal Fault
+smartphone,Google,< 1 year,Indoor – Normal,More than a month ago,BAT-90,Device does not power on,Swollen Battery Hazard
+refrigerator,LG,< 1 year,Commercial / Constant Use,Within the last week,DEF-01,Fresh food compartment warm,Defrost System Failure
+washing_machine,Bosch,1–2 years,Industrial / Dusty,Just today,E-20,Loud grinding sound during pump operation|Error code displayed at end of wash cycle|Water not draining|Unexpected shutdowns,Drainage Obstruction or Pump Fault
+laptop,Apple,1–2 years,Industrial / Dusty,1–4 weeks ago,DISK-99,Frequent freezing or lag|Stuck in boot loop|Unexpected shutdowns,Storage Drive Failure or Corruption
+washing_machine,IFB,4+ years,Commercial / Constant Use,Just today,UNB-01,Violent shaking or banging during spin cycle|Drum fails to spin|Overheating during normal use,Drum Suspension or Imbalance Fault
+air_conditioner,LG,< 1 year,Commercial / Constant Use,More than a month ago,CMP-01,Blowing room-temperature air instead of cold air|Outdoor unit does not turn on,Compressor Failure or Capacitor Fault
+desktop,iBuyPower,< 1 year,High Temperature,More than a month ago,PWR-01,Unexpected shutdowns|Device does not power on,Power Supply Unit (PSU) Failure
+washing_machine,Whirlpool,< 1 year,Indoor – Normal,1–4 weeks ago,DRN-01,Error code displayed at end of wash cycle|Loud grinding sound during pump operation,Drainage Obstruction or Pump Fault
+laptop,Lenovo,2–4 years,Industrial / Dusty,Just today,,Unexpected shutdowns,Battery Degradation or Failure
+smartphone,Xiaomi,4+ years,Industrial / Dusty,More than a month ago,DISP-10,Unresponsive or ghost touch|Abnormal brightness or discoloration|Screen flickering or lines|Blank screen while powered on,Display Panel or Flex Cable Fault
+laptop,HP,4+ years,High Temperature,Within the last week,BAT-03,Unexpected shutdowns|Rapid battery drain|Plugged in but not charging,Battery Degradation or Failure
+laptop,Lenovo,4+ years,Indoor – Normal,1–4 weeks ago,PWR-11,Plugged in but not charging|Unexpected shutdowns|Rapid battery drain,Battery Degradation or Failure
+laptop,Apple,2–4 years,High Temperature,More than a month ago,,Screen flickering or lines|Blank screen while powered on,Display Panel or Inverter Issue
+washing_machine,Whirlpool,1–2 years,Industrial / Dusty,1–4 weeks ago,E-20,Loud grinding sound during pump operation,Drainage Obstruction or Pump Fault
+air_conditioner,Samsung,1–2 years,High Humidity,1–4 weeks ago,ERR-12,Burning smell from indoor or outdoor unit|Trips circuit breaker immediately,Electrical Overload or Insulation Fault
+smartphone,OPPO,< 1 year,Commercial / Constant Use,Within the last week,BAT-02,Rapid battery drain,Battery Degradation
+refrigerator,Whirlpool,2–4 years,Indoor – Normal,Just today,,Fresh food compartment warm,Defrost System Failure
+smartphone,OPPO,2–4 years,Indoor – Normal,Just today,BAT-90,Battery swelling or back cover lift,Swollen Battery Hazard
+laptop,ASUS,4+ years,Indoor – Normal,Within the last week,,Screen flickering or lines,Display Panel or Inverter Issue
